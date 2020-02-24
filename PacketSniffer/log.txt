@@ -1,0 +1,3982 @@
+Packet Count: 1
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U  .  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 2
+Recieved Packet Size: 253
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+ .  . d  .  . z  . a  .  .  .  . c  .  .  . 
+ .  .  .  .  .  .  . G e )  . .  .  .  .  . 
+c  .  .  .  .  .  .  .  . > : j  .  . } > 
+ .  .  .  .  . M -  .  .  . A O  .  . h H 
+ .  . . ( S ~  . g J 6 b A }  .  .  . 
+v 4 y Z  .  .  .  .  .  . @  . 1 r [  . 
+ .  . D  .  .  . O  .  .  . !  .  .  . t S 
+ .  .  . #  .  . i C  .  .  . t y  .  .  . 
+q p x  .  .  .  . E  .  .  . "  .  .  .  . 
+T R  .  . l  . f S D  .  .  . 7 l G  . 
+ . "  . Q  .  . .  .  .  .  .  .  . X  .   
+ .  .  . g   4  .  .  . h  . "  .  . R | 
+ . ) C b O  .  . z 4  . =  .  .  .  .  . 
+ .  .  .  . ^ o  . P  . {  .  .  . Q {  . 
+(  . 5 N | 2  .  .  . h " Y 
+Packet Count: 3
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  . G @  . @  . &  .  .  .  .  .  .  .  . 
+c  .  .  .  . )  . .  .  .  . H  .  .  .  . 
+ .  . N  .  .  .  .  .  .  . } >  . > : j 
+ . 
+Packet Count: 4
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U  .  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 5
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U  .  .  .  .  .  . #  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 6
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . R  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 7
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . Q  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 8
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . [  .  .  .  .  . s  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 9
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . \  .  .  .  .  . r  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 10
+Recieved Packet Size: 64
+Payload:
+ .  . ^  .  .  .  .  .  .  .  . x  .  . E  .  . 
+2 x C  .  .  .  .  . J  .  .  .    .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  .  .  .  .  . 
+Packet Count: 11
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U  .  .  .  .  .  . !  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 12
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U  .  .  .  .  .  .    .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 13
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U  .  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 14
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U  .  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 15
+Recieved Packet Size: 100
+Payload:
+ .  . ^  .  .  . 8  .  .  . ,  .  .  . E  .  . 
+V  .  .  .  .  .  . \  .  .  .  . w  .  .  . 
+ .  .  .  .  .  . B  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . H A R S H I N I - 7 
+K G Q R 4 4  . _ d e v i c e - i 
+n f o  . _ t c p  . l o c a l  .  . 
+ .  .  . 
+Packet Count: 16
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U  .  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 17
+Recieved Packet Size: 75
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+= D  .  .  .  .  .  . #  .  .  . |  .  .  . 
+ .  .  .  .  .  . )  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . e x d i l j i p u  . 
+l o c a l  .  .  .  .  . 
+Packet Count: 18
+Recieved Packet Size: 80
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+B D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . .  . f  .  .  .  .  .  .  . 
+ .  .  .  .  .  . m p a e y z e j s k 
+h v m x  . l o c a l  .  .  .  .  . 
+Packet Count: 19
+Recieved Packet Size: 76
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+> D  .  .  .  .  .  .    .  .  . |  .  .  . 
+ .  .  .  .  .  . *  . '  .  .  .  .  .  .  . 
+ .  .  .  .  .  . v j j n z c l u v w 
+ . l o c a l  .  .  .  .  . 
+Packet Count: 20
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . ]  .  .  .  .  . q  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 21
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . ^  .  .  .  .  . p  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 22
+Recieved Packet Size: 440
+Payload:
+ .  . ^  .  .  . (  .  .  .  .  .  .  . E  .  . 
+ .  .  . @  .  .  .  . K  .  .  . U  .  .  . 
+ .  .  .  . l  .  .  .  . N O T I F Y   
+*   H T T P / 1 . 1  .  . H O S T 
+:   2 3 9 . 2 5 5 . 2 5 5 . 2 5 
+0 : 1 9 0 0  .  . C A C H E - C O 
+N T R O L :   m a x - a g e = 8 
+ .  . L O C A T I O N :   h t t p 
+: / / 1 9 2 . 1 6 8 . 2 . 8 5 : 
+3 7 4 4 1 / r o o t D e s c . x 
+m l  .  . S E R V E R :   N e t g 
+e a r _ S w i t c h   U b u n t 
+u / t r u s t y   U P n P / 1 . 
+1   M 4 3 0 0 / 2 . 0  .  . N T : 
+  u p n p : r o o t d e v i c e 
+ .  . U S N :   u u i d : f b 8 e 
+6 7 b a - 7 d b a - 1 1 e 7 - b 
+e 5 5 - 2 8 8 0 8 8 e 5 e 0 f 3 
+: : u p n p : r o o t d e v i c 
+e  .  . N T S :   s s d p : a l i 
+v e  .  . O P T :   " h t t p : / 
+/ s c h e m a s . u p n p . o r 
+g / u p n p / 1 / 0 / " ;   n s 
+= 0 1  .  . 0 1 - N L S :   8 6 4 
+0 4  .  . B O O T I D . U P N P . 
+O R G :   8 6 4 0 4  .  . C O N F 
+I G I D . U P N P . O R G :   1 
+3 3 7  .  .  .  . 
+Packet Count: 23
+Recieved Packet Size: 512
+Payload:
+ .  . ^  .  .  . (  .  .  .  .  .  .  . E  .  . 
+ .  .  . @  .  .  .  .  .  .  .  . U  .  .  . 
+ .  .  .  . l  .  . 6  . N O T I F Y   
+*   H T T P / 1 . 1  .  . H O S T 
+:   2 3 9 . 2 5 5 . 2 5 5 . 2 5 
+0 : 1 9 0 0  .  . C A C H E - C O 
+N T R O L :   m a x - a g e = 8 
+ .  . L O C A T I O N :   h t t p 
+: / / 1 9 2 . 1 6 8 . 2 . 8 5 : 
+3 7 4 4 1 / r o o t D e s c . x 
+m l  .  . S E R V E R :   N e t g 
+e a r _ S w i t c h   U b u n t 
+u / t r u s t y   U P n P / 1 . 
+1   M 4 3 0 0 / 2 . 0  .  . N T : 
+  u r n : s c h e m a s - u p n 
+p - o r g : d e v i c e : I n t 
+e r n e t G a t e w a y D e v i 
+c e : 1  .  . U S N :   u u i d : 
+f b 8 e 6 7 b a - 7 d b a - 1 1 
+e 7 - b e 5 5 - 2 8 8 0 8 8 e 5 
+e 0 f 3 : : u r n : s c h e m a 
+s - u p n p - o r g : d e v i c 
+e : I n t e r n e t G a t e w a 
+y D e v i c e : 1  .  . N T S :   
+s s d p : a l i v e  .  . O P T : 
+  " h t t p : / / s c h e m a s 
+. u p n p . o r g / u p n p / 1 
+/ 0 / " ;   n s = 0 1  .  . 0 1 - 
+N L S :   8 6 4 0 4  .  . B O O T 
+I D . U P N P . O R G :   8 6 4 
+0 4  .  . C O N F I G I D . U P N 
+P . O R G :   1 3 3 7  .  .  .  . 
+Packet Count: 24
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . P  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 25
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . O  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 26
+Recieved Packet Size: 74
+Payload:
+T  . u  .  .  .  .  . K - F  .  .  . E  .  . 
+< 3 @ @  . @  .  . w  .  .  .  .  .  .  . 
+:  .  .  .  . 6  . k p  .  .  .  .  .  .  . 
+ .  . .  .  .  .  .  .  .  .  .  .  . % V  . 
+ .  .  .  .  .  .  .  .  . 
+Packet Count: 27
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E    . 
+4 T  . @  . +  .  . q  .  .  . }  .  .  . 
+ .  .  .  .  .  .  .  . ?  .  .  .  .  .  .  . 
+ . M /  .  .  .  .  .  . - ?  .  .  .  .  . 
+_ 
+Packet Count: 28
+Recieved Packet Size: 92
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E    . 
+N T  . @  . +  .  . V  .  .  . }  .  .  . 
+ .  .  .  .  .  .  .  . ?  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . - ?  .  .  .  .  . 
+_  .  .  .  .  . l B 4  . ;  .  .  . 7  . 
+ .  . 8  . )  . o  .  .  . 0 
+Packet Count: 29
+Recieved Packet Size: 90
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E    . 
+L T  . @  . +  .  . W  .  .  . }  .  .  . 
+ .  .  .  .  .  .  .  . Y  .  .  .  .  .  .  . 
+ . 9 D  .  .  .  .  .  . - ?  .  .  .  .  . 
+_  .  .  .  .  .  . l  .  .  .  . 5  .  .  . 
+ .  . $  .  .  .  . o  . 
+Packet Count: 30
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E    . 
+4 T  . @  . +  .  . n  .  .  . }  .  .  . 
+ .  .  .  .  .  .  .  . q  .  .  .  .  .  .  . 
+ . L  .  .  .  .  .  .  . - ?  .  .  .  .  . 
+_ 
+Packet Count: 31
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 5 9 @  . @  .  . 5  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  .  .  . r  .  .  . 
+ . J -  .  .  .  .  .  .  .  .  . X - ?  . 
+ . 
+Packet Count: 32
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 5 : @  . @  .  . 4  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  .  .  . r  .  .  . 
+ . J +  .  .  .  .  .  .  .  .  . Y - ?  . 
+ . 
+Packet Count: 33
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U  .  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 34
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U  .  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 35
+Recieved Packet Size: 64
+Payload:
+ .  . ^  .  .  .  .  .  .  . q .  .  . E  .  . 
+2  . v  .  .  .  .  .  .  .  . ! z  .  .  . 
+ .  .  .  .  .  .  .  .  .  . 5  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  .  .  .  .  . 
+Packet Count: 36
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U    .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 37
+Recieved Packet Size: 64
+Payload:
+ .  . ^  .  .  .  .  .  .  . q .  .  . E  .  . 
+2  . w  .  .  .  .  .  .  .  . ! z  .  .  . 
+ .  . +  .  .  .  .  .  .  . z  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  .  .  .  .  . 
+Packet Count: 38
+Recieved Packet Size: 64
+Payload:
+ .  . ^  .  .  .  .  .  .  . q .  .  . E  .  . 
+2  . x  .  .  .  .  .  .  .  . ! z  .  .  . 
+ .  . E  .  .  .  .  .  .  . 7  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  .  .  .  .  . 
+Packet Count: 39
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+ . j "  .  .  .  .  . @  .  .  .  .  .  .  . 
+ .  . W  . l  .  . Z @ M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 40
+Recieved Packet Size: 82
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+D  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . 0  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ g o o g l e c a s 
+t  . _ t c p  . l o c a l  .  .  .  . 
+ . 
+Packet Count: 41
+Recieved Packet Size: 82
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+D  .    .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . 0  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ g o o g l e c a s 
+t  . _ t c p  . l o c a l  .  .  .  . 
+ . 
+Packet Count: 42
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  .  .  .  .  .  .  .  .  . E  .  . 
+ . \  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . ,  . l  .  . X  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 7 9 
+. 0 . 3 9 4 5 . 1 3 0   W i n d 
+o w s  .  .  .  . 
+Packet Count: 43
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U !  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 44
+Recieved Packet Size: 79
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+A U "  .  .  .  .  . %  .  .  . X  .  .  . 
+ .  .  .  .  .  . -  . x z  .  .  .  .  .  . 
+ .  .  .  .  .  . _ a r d u i n o  . _ 
+t c p  . l o c a l  .  .  .  .  . 
+Packet Count: 45
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . _  .  .  .  .  . o  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 46
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . `  .  .  .  .  . n  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 47
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U #  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 48
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . N  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 49
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . M  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 50
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  . A  .  .  .  . E  .  . 
+N 6  .  .  .  .  .  .  .  .  .  . o  .  .  . 
+ .  .  .  .  .  . :  .  .  . U  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 51
+Recieved Packet Size: 232
+Payload:
+ .  .  .  .  .  . , Y  .  .  .  .  .  . E  .  . 
+ .  .  . @  . @  . 5  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . v  .  . Y  .  .  .  . 
+ .  .  .  .  .  .  .   F J E F E M C N 
+E J E F E J C A C A C A C A C A 
+C A C A C A A A  .   F H E P F C 
+E L E H F C E P F F F A C A C A 
+C A C A C A C A B O  .  . S M B % 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . V  .  .  .  .  .  .  .  .  . '  . 
+\ M A I L S L O T \ B R O W S E 
+ .  .  .  .  .  .  . `  .  .  .  .  .  .  . Y 
+E L - I E I  . 
+Packet Count: 52
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . a  .  .  .  .  . m  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 53
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . b  .  .  .  .  . l  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 54
+Recieved Packet Size: 79
+Payload:
+ .  . ^  .  .  .  .  . b  .  . S  .  . E  .  . 
+A s Q  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . - n :  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ a r d u i n o  . _ 
+t c p  . l o c a l  .  .  .  .  . 
+Packet Count: 55
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . x  .  . E  .  . 
+N  .  .  .  .  .  .  .  .  .  .  .    .  .  . 
+ .  .  .  .  .  . :  . 0  .  .  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 56
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  . <  .  .  . Z {  .  . E  .  . 
+#  . #  .  .  .  .  . A  .  .  . C  .  .  . 
+ .  .  .  .  .  .  . ,  .  . D E S K T O 
+P - J S D G 5 I H  .  .  . N  .  .  . 
+ .  .  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ . 0  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  . N  .  .  . 3 '  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . v  .  .  .  .  . 
+ . p h n  .  .  .  .  .  .  . : { a 7 3 
+4 0 8 0 e - c a 5 2 - 4 6 c c - 
+9 f 7 6 - 6 a c 4 b 6 9 b 8 6 e 
+9 }  . n  .  .  .  .  .  .  .  . N  .  .  . 
+ . 0  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . p  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . u  . q  .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 57
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+ . j #  .  .  .  .  . ?  .  .  .  .  .  .  . 
+ .  . Y  . l  .  . ^ > M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 58
+Recieved Packet Size: 698
+Payload:
+ .  . ^  .  .  . H  . N N $  .  .  . E  .  . 
+ .  . '  .  .  .  . l  .  .  .  . o  .  .  . 
+ .  .  .  . v  .  . .  . < ? x m l   v 
+e r s i o n = " 1 . 0 "   e n c 
+o d i n g = " u t f - 8 " ? > < 
+s o a p : E n v e l o p e   x m 
+l n s : s o a p = " h t t p : / 
+/ w w w . w 3 . o r g / 2 0 0 3 
+/ 0 5 / s o a p - e n v e l o p 
+e "   x m l n s : w s a = " h t 
+t p : / / s c h e m a s . x m l 
+s o a p . o r g / w s / 2 0 0 4 
+/ 0 8 / a d d r e s s i n g "   
+x m l n s : w s d = " h t t p : 
+/ / s c h e m a s . x m l s o a 
+p . o r g / w s / 2 0 0 5 / 0 4 
+/ d i s c o v e r y " > < s o a 
+p : H e a d e r > < w s a : T o 
+> u r n : s c h e m a s - x m l 
+s o a p - o r g : w s : 2 0 0 5 
+: 0 4 : d i s c o v e r y < / w 
+s a : T o > < w s a : A c t i o 
+n > h t t p : / / s c h e m a s 
+. x m l s o a p . o r g / w s / 
+2 0 0 5 / 0 4 / d i s c o v e r 
+y / R e s o l v e < / w s a : A 
+c t i o n > < w s a : M e s s a 
+g e I D > u r n : u u i d : 3 d 
+c 9 b 4 8 c - 1 5 b 5 - 4 1 f a 
+- 8 3 b 0 - 2 3 0 b b 1 e f 2 d 
+2 5 < / w s a : M e s s a g e I 
+D > < / s o a p : H e a d e r > 
+< s o a p : B o d y > < w s d : 
+R e s o l v e > < w s a : E n d 
+p o i n t R e f e r e n c e > < 
+w s a : A d d r e s s > u r n : 
+u u i d : e 3 2 4 8 0 0 0 - 8 0 
+c e - 1 1 d b - 8 0 0 0 - 3 0 0 
+5 5 c f a f 9 7 0 < / w s a : A 
+d d r e s s > < / w s a : E n d 
+p o i n t R e f e r e n c e > < 
+/ w s d : R e s o l v e > < / s 
+o a p : B o d y > < / s o a p : 
+E n v e l o p e > 
+Packet Count: 59
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . K  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 60
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . P {  .  .  . f  .  . E  .  . 
+ . P  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . l  .  .  .  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 7 9 
+. 0 . 3 9 4 5 . 1 3 0   W i n d 
+o w s  .  .  .  . 
+Packet Count: 61
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  . |  .  .  . q  .  .  . E  .  . 
+#  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . Q  . L A P T O P 
+- I O F 8 2 U H F  .  .  . I  .  .  . 
+ . <  .  . I  .  .  .  . 8  .  . I  .  .  . 
+ . P  .  . I  .  .  .  . 4  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  . k  .  .  .  .  .  .  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ . p  . k  .  .  .  .  . p  .  .  .  .  .  . 
+ .  . ` F  .  .  .  .  .  .  . > { 9 8 b 
+e 6 d 8 7 - 3 3 3 2 - 4 3 9 3 - 
+8 c b 2 - d a 1 0 c d 0 b 7 f 3 
+a }  . F  .  .  .  .  . 8  .  . I  .  .  . 
+ . P  .  . I  .  .  .  . 4  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . u G d  .  .  .  .  .  .  . Z  . ^ | 
+Packet Count: 62
+Recieved Packet Size: 762
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+ .  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  . E x  .  .  .  .  .  . 
+ . ?  .  .  .  .  .  .  .  .  .  . @  . A  . 
+{  .  .  .  . g  .  . d  . M  .  .  .  . p 
+ .  .  .  .  . 8  .  . x  .  .  . ' O n O 
+6  . y  .  .  .  . k  .  . T  .  .  . @ ( 
+ . F  .  .  .  .  . v >  .  . !  .  .  .  . 
+ . m  .  . /  .  .  . d F  .  . d  .  .  . 
+^ y  .  .  . 6  . 8  . (  . t  .  .  . O 
+*  . A  .  .  .  .  .  .  . >  .  .  .  . ' 
+ .  . z  .  .  .  .  . m I  .  .  .  . > } 
+ .  .  .  .  .  .  .  . V  . 3  . R  .  . H 
+ . J & S  . Y  .  .  . z  . s  . c  .  . 
+ . (  .  .  .  .  .  .  .  . O  . Z $    . 
+ .  .  .  .  . Q  . l z  .  .  .  .  .  .  . 
+ . L  .  .  .  . T  .  . = n  . u  . 7  . 
+c  .  . $  .  .  .  .  .  .  . d  .  .  . D 
+ . = [  . K  . \  .  .  .  .  . L  .  .  . 
+ .  .  . ~ 7 N X z  .  . J ,  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . } "  .  . 
+ . B  .  .  .  . 9 f j  . R A  .  .  .  . 
+ .  .  .  .  . ;  .  .  .  .  .  .  .  .  . ] 
+ .  . - )  .  .  . 1 a  .  . q  . G  . # 
+ .  .  .  .  .  . D  .  .  .  .  .  . ~ H [ 
+  d  . L  . ] L R X v  .  .  . @  .  . 
+z  .  .  .  .  . z  . t  . T =  .  .  .  . 
+ . G  .  .  .  . 0  . G  . -  . u w  . 9 
+ .  .  .  . Q n ! 4  . Y 1 # 0  . l 9 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+o  .  .  . $  .  . L Y  . g  .  .  .  .  . 
+R v  .  .  .  .  .  .  .  . y  .  .  .  .  . 
+ .  .  . 8 ? H  . M  .  .  . g  . a  .  . 
+ . W n Y  . /  .  . :  .  . ] -  .  .  . 
+ . W  .  .  . b  . y 1  . c  . ^ 6 (  . 
+ .  . "  .  .  .  .  .  .  .  .  .  . ^  .  . 
+ .  .  . + \ v  . - C y +  .  .  .  . e 
+o  .  . U  . s  .  .  .  . x  . E  .  .  . 
+ . .  .  .  .  .  .  . + P  . t ( /  .  . 
+ . j  .  .  .  .  .  .  .  .  .  . + X P  . 
+z  .  . M , S _  . ?  .  .  . $  . i c 
+u " H  .  .  .  . a  .  .  .  . %  .  .  . 
+ . @ y  . ^  .  .  .  . v  .  .  .  .  . 0 
+s  .  .  . D O  .  .  .  .  . 8  .  . R  . 
+ .  . 7 @  .  . J  .  .  . f  . 4  .  . z 
+ .  .  . C Q W  . [  .  . j  .  . b x / 
+ .  . ( Z 7 u k  .  . ~  .  .  . z  . { 
+ .  .  . ^  . >  . o  . 
+Packet Count: 63
+Recieved Packet Size: 113
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+c B ^ @  . @  . }  .  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  . d  .  .  .  .  . 
+ . y  .  .  .  .  .  .  .  .  .  . _  .  .  . 
+ .  .  .  .  . *  . Z N  .  .  .  .  .  .  . 
+[  .  . N p (  . ~ a  . !  .  .  . . A 
+#  .  .  .  .  .  .  .  . 2  .  . <  . = Z 
+Packet Count: 64
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  . H  . N N $  .  .  . E  .  . 
+N  .  .  .  .  .  .  . u  .  .  . o  .  .  . 
+ .  .  .  .  .  . :  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 65
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  . H  . N N $  .  .  . E  .  . 
+N  .  .  .  .  .  .  . t  .  .  . o  .  .  . 
+ .  .  .  .  .  . :  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 66
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  . H  . N N $  .  .  . E  .  . 
+N  .  .  .  .  .  .  . s  .  .  . o  .  .  . 
+ .  .  .  .  .  . :  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 67
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . c  .  .  .  .  . k  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 68
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . d  .  .  .  .  . j  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 69
+Recieved Packet Size: 179
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+ . j $  .  .  .  .  . c  .  .  .  .  .  .  . 
+ .  .  .  . l  .  . w  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H o 
+s t :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . S T :   u r 
+n : s c h e m a s - u p n p - o 
+r g : d e v i c e : I n t e r n 
+e t G a t e w a y D e v i c e : 
+1  .  . M a n :   " s s d p : d i 
+s c o v e r "  .  . M X :   3  .  . 
+ .  . 
+Packet Count: 70
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  .  . }  . 2  .  .  .  . E  .  . 
+ .  .  .  .  .  .  . X  .  .  .  . "  .  .  . 
+ .  .  .  . l  .  . v 7 M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 71
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+4  .  .  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  .  .  .  .  . 
+ . z q  .  .  .  .  .  .  . A  . i  .  .  . 
+@ 
+Packet Count: 72
+Recieved Packet Size: 863
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+Q  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  .  . x  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . g  . A  . 
+i  .  .  .  .  .  . Q  .  .  . ~ !  . B w 
+ .  . j  .  .  .  . M  .  . i n  .  .  .  . 
+ . G  .  . !  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  . : $  . r {  .  . 3  .  . >  .  . 
+ . J  . y M  . p w  .  .  . <  .  .  .  . 
+ .  .  .  . O a  .  .  . < M %  . J  .  . 
+ .  .  .  .  . k  .  .  .  . m K  .  .  . S 
+L  . \  . s  . {  .  .  . c  .  .  .  . C 
+ . j I ]  .  .  .  .  . /  .  .  .  . " g 
+_  . R ; f n  .  .    .  .  . R x  . ? 
+ . d  .  .  . ~  . ^  .  . 4  . }  .  .  . 
+ .  .  . (  .  .  .  .  . `  .  .  .  . 7  . 
+-  .  . / o j =  . ~  . D  .  . *  .  . 
+t  . -  .  . J  . v J  . V  .  . .  . > 
+ .  . < x  . [ #  .  .  .  . G  . b  .  . 
+/ X ,  .  . g Q 2  .  .  .  . W k  .  . 
+S  .  . '  .  .  .  . x = 9  .  .  .  .  . 
+[  .  . \  . t  . j  . #  .  . a  .  .  . 
+ .  . L l #  .  . #  . E  .  .  . @ 0  . 
+ .  .  . K A  .  .  .  . %  .  .  . f  . f 
+ . ~ 1  .  . ` "  .  .  .  .  . K  . {  . 
+ .  . i  .  .  . ]  . M  .  .  . b  . D x 
+S  .  . > \  .  . k  . 9  .  . ^  .  . ] 
+ .  .  .  .  .  .  .  . T 0  .  .  .  . t  . 
+J  . :  .  .  . E  .  .  .  .  . F  . + 3 
+ .  . @ _  . Y  .  .  . 8  . u  .  . `  . 
+ .  .  .  .  . 3  .  .  .  . q m  . X  .  . 
+ .  . }  .  . ?  .  .  .  .  .  .  .  .  .  . 
+ .  .  . Z  . P  . 8  .  . `  .  .  .  . D 
+(  .  .  .  .  . G ;  . <  .  . t  .  .  . 
+ .  .  .  . 0 s  .  . 7  .  . 2  .  . p  . 
+}  . [  .  .  .  . y  .  . I  .  . _  .  . 
+ .  .  .  .  . `  . $  .  . `  . i @  . & 
+ . C  .  . q  .  . 1  .  .  .  .  . B  .  . 
+ .  .  .  .  . W  . ^  . E Q e /  . #  . 
+O  .  .  . \  .  . +  . R  .  .  . v  .  . 
+ . +  . z U  .  . }  .  . c  .  . = G  . 
+.  .  .  . r  . B  .  .  . g L  . 9  . " 
+ . o  .  . l  . 3  . M  .  .  .  . w q V 
+ .  .  . N t  . :  .  . :  .  .  . y  . Y 
+ .  .  .  .  . b  . P v S 6 5 0  . a r 
+z p  .  .  .    . j 4  . V  . y  .  . Z 
+)  . @  .  . b  . ?  .  . k  .  . n  . B 
+N L  .  . M ( @  . c u )  .   b  .  . 
+G  . m W @  .  .  .  .  . y  .  . z  . { 
+ . T  . 0  .  .  .  .  .  . " 8  .  .  .  . 
+ . *  .  .  . B h G %  .  . ` I  .  .  . 
+ . y F N  . 4  .  .  . u '  .  .    .  . 
+e x  . @ F  .  .  . &  .  .    .  .  . 4 
+x  .  . 0 s  .  .  . L  . p S  .  . 
+Packet Count: 73
+Recieved Packet Size: 273
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+ .  .  .  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . A  . m  .  .  . 
+@  .  .  .  .  . 9  . E  . c    .  .  . Z 
+ .  .  . <  . M  . y R J W  .  . n  .  . 
+s  .  . i /  .  . |  .  . F  . - _ U i 
+ . S  .  .  .  . ? t  . "  .  . m W E  . 
+l  . @ ! h ] Q  .  . j  .  . = ' = 3 
+e  .  .  .  .  .  .  .  . G  .  . q  . g  . 
+ . !  .  .  .  .  . u M  .  .  . B Q  .  . 
+ .  . K ,  .  .  .  . 4 : =  . $  . /  . 
+U  .  . p  .  . G  .  . D  . g  .  . %  . 
+ .  .  .  . E 1  .  .  . : E  . +  .  .  . 
+ .  .  .  . J  .  . 5  .  .  . :  .  . > < 
+ .  . }  . / v  .  . T ; U  .  .  . Z  . 
+3  . G C ' X  .  .  . _ @  .  .  . q  . 
+Packet Count: 74
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  .  . x  .  .  .  .  .  . 
+ . w ^  .  .  .  .  .  .  .  .  . k  . A  . 
+m 
+Packet Count: 75
+Recieved Packet Size: 334
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+@  .  .  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . A  . m  .  .  . 
+@  .  .  .  .  .  . $  . _ V G  .  .  .  . 
+c l  .  . J  .  .  . !  .  .  .  .  .  . q 
+ .  .  . 3 B  .  . o N  .  . q  . H  . = 
+ .  .  . p  . n  . <  .  .  .  .  .  . i  . 
+X  . d  . ?  .  . +  . % V _  . \ S 5 
+ .  .  .  .  .  .  .  .  .  . +  .  .  .  .  . 
+ .  .  . K  .  .  . q L  . } A  .  . Y  . 
+G  .  .  .  .  .  .  .  .  .  .  . b X  .  . 
+v  .  .  .  .  .  .  .  . D g  . t f  . M 
+[ ]  .  . d  .  . ~  . : ~  . j !  .  . 
+U  .  .  . [ v  .  .  .  .  . C  .  .  .  . 
+ . w n  . ; x  . )  . 7 p  .  .  . 3  . 
+ .  .  .  .  .  . -  .  . ` )  .  .  .  .  . 
+ .  . S _  .  .  .  . F  .  .  .  .  . -  . 
+ .  .  .  . o  .  . -  .  .  . @  . S  .  . 
+g  .  .  . & C W 2 #  . G  .  .  .  .  . 
+ .  . c  . Z . [  .  .  . P  .  . 
+Packet Count: 76
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  .  . x  .  .  .  .  .  . 
+ . v R  .  .  .  .  .  .  .  .  . k  . A  . 
+m 
+Packet Count: 77
+Recieved Packet Size: 273
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+ .  .  .  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  .  .  .  .  . 
+ . U r  .  .  .  .  .  .  . A  . m  .  .  . 
+@  .  .  .  .  . R (  .  .  .  . j  .  .  . 
+@ I e ! Z  .  . (  .  .  .  .  . S  .  . 
+ . < " 0  . F  .  . p  . o  .  .  . ' r 
+ .  .  . V G  . L  . D 8 A  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . u  .  .  .  .  . 
+. e $ O  .  .  .  . F u  . i %  . p  . 
+4 b  .  .  .  . v  .  .  .  .  .  .  .  .  . 
+ .  .  . q  . \ ^  .  . G  .  .  .  . 2  . 
+ .  . 6  . Q I  . k z  .  .  .  .  .  . ( 
+' q  . U  .  . t  .  .  .  .  .  .  . P S 
+f b  .  .  . ]  .  .  .  .  .  . E  .  .  . 
+ .  .  .  .  .  .  .  . "  .  . 8  .  . ?  . 
+H q >    .  .  .  .  . 9 : N P  . T - 
+Packet Count: 78
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  .  . x  .  .  .  .  .  . 
+ . u  .  .  .  .  .  .  .  .  .  . k  . A  . 
+m 
+Packet Count: 79
+Recieved Packet Size: 105
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+[  .  .  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  .  .  .  .  . 
+ . = e  .  .  .  .  .  .  . A  . m  .  .  . 
+@  .  .  .  . "  . O  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . 4  .  . j  .  .  .  . S  . 
+R   7 <  .  . w  . 
+Packet Count: 80
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  .  . x  .  .  .  .  .  . 
+ . u \  .  .  .  .  .  .  .  .  . k  . A  . 
+m 
+Packet Count: 81
+Recieved Packet Size: 105
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+[  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  .  . x  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . l  . A  . 
+m  .  .  .  . "  . I  .  . ;  .  .  .  .  . 
+ . f  . P  . & I  . < 8  . R  .  .  . O 
+1 ) @  .  .  . A | 
+Packet Count: 82
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , q  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . : I <  . !  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 83
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , r  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . : I ;  . "  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 84
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+4  .  .  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  . A  .  .  . 
+ . t  .  .  .  .  .  .  .  . A  .  .  .  .  . 
+g 
+Packet Count: 85
+Recieved Packet Size: 97
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+S  .    .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  . A  .  .  . 
+ . l  .  .  .  .  .  .  .  . A  .  .  .  .  . 
+g  .  .  .  .  .  .  . j m  . V  . F  .  . 
+ . c  . D  .  .  .  .  .  .  . a  .  .  . N 
+Packet Count: 86
+Recieved Packet Size: 105
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+[  . !  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  . A  .  .  . 
+ . s  .  .  .  .  .  .  .  . A  .  .  .  .  . 
+g  .  .  .  . "  .  .  . <  .  . q  .  . E 
+ .  . l  . b u  .  .  .  .  . i  .  .  . x 
+ .  .  .  . > V  .  . 
+Packet Count: 87
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  . A x  .  .  .  .  .  . 
+ . t  .  .  .  .  .  .  .  .  .  .  .  . A  . 
+ . 
+Packet Count: 88
+Recieved Packet Size: 269
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+ .  . "  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  . A  .  .  . 
+ . 0  .  .  .  .  .  .  .  . A  .  .  .  .  . 
+g  .  .  .  .  .  . 5    .  .  .  .  .  . Y 
+ . V  . u  .  .  . W  .  .  .  .  . - H  . 
+% Q 4  .  . Q  .  .  .  . W  .  . 0  .  . 
+%  .  . -  .  .  .  .  . e  .  .  .  . q  . 
+ .  . R  .  . =  . 9 :  .  .  .  .  .  .  . 
+ .  .  . |  .  .  . &  .  .  .  . W ,  .  . 
+ .  .  . 2 ; '  .  .   Q t v  . /  .  . 
+ .  .  . 2 1 3  .  . + } w  .  . c  .  . 
+ .  .  .  . 3  . X  .  . I  . a B *  .  . 
+ . 1 s  . ]  . M "  .  .  .  .  .  .  .  . 
+A  .  .  . x S ~  . x  . Y  . f  .  .  . 
+ .  .  . d  . ( 9  .  . 7  .  . Z  .  .  . 
+ .  .  .  . 3  . B  .  . ] }  . 
+Packet Count: 89
+Recieved Packet Size: 105
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+[  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  . A x  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . A  . 
+ .  .  .  .  . "  . A  .  .  . K  .  .  .  . 
+ .  .  .  . 5  . )  .  .  .  . 3  .  .  .  . 
+ . +  .  .  .  .  .  . 
+Packet Count: 90
+Recieved Packet Size: 383
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+q  . #  .  . x  .  . p J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  . A  .  .  . 
+ .  .  .  .  .  .  .  .  .  . A  .  .  .  .  . 
+g  .  .  .  . 8  .  .  . i  .  . d  .  .  . 
+ .  .  . .  .  . + 9 N  .  .  .  .  .  .  . 
+ .  . B  .  . h  . 0 @  .  .  .  .  .  .  . 
+ . i @  .  .  .  .  .  . D <  .  .  .  .  . 
+e  . ; U  . d  .  .  .  . a c  .  .  .  . 
+ . A t  . ?  .  .  .  .  .  . B  . j  . h 
+ . s ]  . D  . i G  . A  . O  .  .  .  . 
+ .  .  . F  . @ d  . [ $ R  .  . 5  .  . 
+ . [  .  . P  . C 2  .  . e  .  .  .  .  . 
+D :  .  . - K `  . a I  .  . o m  . K 
+]  .  .  . * b  .  . j  . & +  . e  .  . 
+r  .  .  . P 6 +  . &  .  . ^  .  .  .  . 
+ . A ~  . F  .  .  .  . b e  .  .  . >  . 
+ .  .  .  .  . u  . L  .  . 4 g  .  .  .  . 
+ .  .  . (  .  .  .  .  . Z  . p :  . e  . 
+= {  . J  . ' +  . G 5 Z e  . H O 9 
+o  .  . %  .  . x  . J k *  . } v p d 
+ .  . K d  .  . d  .  .  . P w  . L V m 
+g  .  .  . ,  .  .  .  .  .  . =  .  . j  . 
+( o  . X  .  . T  .  .  .  .  .  .  . 
+Packet Count: 91
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  .  .  . 8  . 6  .  .  . E  .  . 
+#  .  .  .  .  .  . @ P  .  .  . {  .  .  . 
+ .  .  .  .  .  .  . D (  . K u s h w a 
+n t h  .  .  .  .  .  . @  .  . q C  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ .  . H B  .  .  .  .  . `  . H  .  .  .  . 
+ . =  .  . [  .  .  .  .  .  .  .  .  .  .  . 
+ . | j  . w  .  .  .  . @  . \ P  .  .  . 
+ . y  .  . q C  .  .  .  .  .  .  .  .  .  . 
+ .  .  . H  .  .  .  .  .  .  .  . q C  .  . 
+ .  .  .  . q C  .  .  .  . J _ { 9 a 1 
+a d 0 b 3 - 2 8 0 c - 4 5 e f - 
+b 0 f 7 - f b 7 b 7 4 d f 2 5 8 
+2 }  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . q C  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  . I  .  . 
+Packet Count: 92
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . J  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 93
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . I  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 94
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , s  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . : I :  . #  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 95
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , t  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . : I 9  . $  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 96
+Recieved Packet Size: 292
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+ .  . @  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  . A  .  .  . 
+ .  .  .  .  .  .  .  .  .  . A  .  .  .  .  . 
+ .  .  .  .  .  .  .  . M  .  .  .  . I  .  . 
+ . |  .  . B  .  .  . ;  .  . ~  . B -  . 
+m  . 6  .  .  .  . I  .  . B S 4  .  . % 
+ .  .  .  . * x  . s 0  . ?  .  .  . e l 
+N  .  . 9  .  . D  . x  .  .  .  .  . ( < 
+ .  . R T n  . R =  .  .  .  . J  . 2  . 
+ .  .  .  .  .  .  . %  .  . (  . Y  .  .  . 
+`  .  . f J R J >  . ;  . @ M  .  .  . 
+ .  .  . p : r 5  .  . L  . {  .  .  .  . 
+y ] o  .  . %  . q  .  .  .  . ! g  . C 
+ .  .  .  .  . m  .  . u  .  . Q j  .  .  . 
+ .  . B V  .  .  . b  . 1 b  .  . = C V 
+^ m 8  .  .  .  .  .  . w  .  .  .  . i 2 
+;  .  .  .  . r  . 5  .  . [  . I  . 8  . 
+s  .  . 
+Packet Count: 97
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  . h x  .  .  .  .  .  . 
+ . q l  .  .  .  .  .  .  .  .  .  .  . A  . 
+ . 
+Packet Count: 98
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . e  .  .  .  .  . i  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 99
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . f  .  .  .  .  . h  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 100
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+4  . A  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  . h  .  .  . 
+ . p T  .  .  .  .  .  .  . A  .  .  .  .  . 
+ . 
+Packet Count: 101
+Recieved Packet Size: 85
+Payload:
+ .  . ^  .  .  .  . (  . < o  .  .  . E  .  . 
+G  .  .  .  .  .  . D }  .  .  . _  .  .  . 
+ .  .  .  .  .  . 3  . L 0 0  . +  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . 
+Packet Count: 102
+Recieved Packet Size: 85
+Payload:
+ .  .  .  .  .  .  . (  . < o  .  .  . E  .  . 
+G  .  .  .  .  .  . 9  .  .  .  . _  .  .  . 
+ .  .  .  .  .  . 3 I 5 0 0  . +  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . 
+Packet Count: 103
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . P >  . & $ {  .  . E  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ s m b  . _ t c p  . 
+l o c a l  .  .  .  .  .  . H A R S H 
+I N I - 7 K G Q R 4 4  . _ d e v 
+i c e - i n f o  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . Y G G D R 
+A S I L - G 7 - 7 5 8 8  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . a t a s h 
+i  .  .  .  .  .  .  .  .  .  .  . S  .  .  . 
+L e n o v o  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  . H A R S H I N I - 7 K 
+G Q R 4 4  .  . 
+Packet Count: 104
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  .  .  . a  . -  .  .  . E  .  . 
+#  . O  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . Y  .  . M S I  .  .  . 
+ .  .  . I  . d  .  .  . `  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ .  .  . I  . d  .  .  .  .  .  .  . d  .  . 
+ . =  . j  .  .  .  .  .  .  .  .  .  .  .  . 
+ . | j  . Z  .  .  .  .  .  .  . [  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  . d  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . Y { 1 a b 
+7 4 1 2 d - 6 d b 9 - 4 a 3 2 - 
+a 8 6 b - 2 f c 3 7 b 5 a 8 b 0 
+0 }  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  . Q A  . 
+Packet Count: 105
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  . 4 V x  .  .  .  . E  .  . 
+N P  .  .  .  .  .  . R  .  .  . |  .  .  . 
+ .  .  .  .  .  . : W B  .  .  .  .  .  .  . 
+ .  .  .  .  .   E N F A E B E F F J 
+F K E F E K F D E L E I F G E N 
+F I C A A A  .  .    .  . 
+Packet Count: 106
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  . 4 V x  .  .  .  . E  .  . 
+N P  .  .  .  .  .  . Q  .  .  . |  .  .  . 
+ .  .  .  .  .  . :  . N  .  .  .  .  .  .  . 
+ .  .  .  .  .   E F F I E E E J E M 
+E K E J F A F F C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 107
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  . 4 V x  .  .  .  . E  .  . 
+N P  .  .  .  .  .  . P  .  .  . |  .  .  . 
+ .  .  .  .  .  . : j I  .  .  .  .  .  .  . 
+ .  .  .  .  .   F G E K E K E O F K 
+E D E M F F F G F H C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 108
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  .  .  .  .  .  . x  .  . E  .  . 
+8 h J  .  .  .  .  . >  .  .  .    .  .  . 
+ .  .  .  .  .  . $ 0  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 109
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  .  .  .  .  .  . x  .  . E  .  . 
+8 h K  .  .  .  .  . =  .  .  .    .  .  . 
+ .  .  .  .  .  . $ 0  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 110
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . H  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 111
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 5 ; @  . @  .  . 3  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  .  .  . r  .  .  . 
+ . H e  .  .  .  .  .  .  .  .  .  . - ?  . 
+ . 
+Packet Count: 112
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . G  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 113
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+ .  .  .  .  .  .  . G  .  .  .  . |  .  .  . 
+ .  .  .  . l  .  . x  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 114
+Recieved Packet Size: 82
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+D D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . 0  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ g o o g l e c a s 
+t  . _ t c p  . l o c a l  .  .  .  . 
+ . 
+Packet Count: 115
+Recieved Packet Size: 82
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+D D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . 0  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ g o o g l e c a s 
+t  . _ t c p  . l o c a l  .  .  .  . 
+ . 
+Packet Count: 116
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  .  .  .  .  .  . x  .  . E  .  . 
+8 h L  .  .  .  .  . <  .  .  .    .  .  . 
+ .  .  .  .  .  . $ 0  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 117
+Recieved Packet Size: 102
+Payload:
+ .  . ^  .  .  .  .  .  . H G Q  .  . E  .  . 
+X  .  .  .  .  .  .  . |  .  .  . &  .  .  . 
+ .  .  .  .  .  . D '  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . L A P T O P - R 6 R 
+8 P P H 6 - m s h o m e - n e t 
+ . l o c a l  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  . 
+Packet Count: 118
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . g  .  .  .  .  . g  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 119
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . h  .  .  .  .  . f  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 120
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U %  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 121
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  .  .  . >  .  .  .  .  . E  .  . 
+# #  .  .  .  .  .  .  .  .  .  . "  .  .  . 
+ .  .  .  .  .  .  .  .  .  . L A P T O P 
+- K 9 L 9 C 9 1 D  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ .  .  . g  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  . 0  .  .  .  .  .  .  .  .  .  .  .  . 
+ . | j  . _  .  .  .  .  .  .  . _  .  .  . 
+ . Y  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . < { 5 6 d 
+4 b 7 3 1 - c 0 4 e - 4 5 6 d - 
+9 c f 0 - b 8 8 b 0 d 9 e 7 7 4 
+7 }  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . i  .  . A 
+Packet Count: 122
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+4  .  . @  . 2  . 3 h  .  .  . }  .  .  . 
+ .  .  .  .  .  . d  .  .  .  .  .  .  .  .  . 
+ . T  .  .  .  .  .  .  .  .  .  . f  .  .  . 
+_ 
+Packet Count: 123
+Recieved Packet Size: 90
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+L  .  . @  . 2  . 3 N  .  .  . }  .  .  . 
+ .  .  .  .  .  . d  .  .  .  .  .  .  .  .  . 
+ . X I  .  .  .  .  .  .  .  .  . f  .  .  . 
+_  .  .  .  .  .  .  . ` s  .  . y  .  . * 
+ .  . B n  .  .  . l  . 
+Packet Count: 124
+Recieved Packet Size: 78
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+@ B _ @  . @  . ~  .  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  . d  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . V  .  .  . 
+f  .  .  .  .  . d  .  .  . d  .  . 
+Packet Count: 125
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U &  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 126
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 m  . @  . @  .  .  .  .  .  .  . J }  . 
+ .  .  .  . l r d  .  . i  . E m  .  .  . 
+ . )  .  .  .  .  .  .  .  . %  .  . U  . E 
+ . 
+Packet Count: 127
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U (  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 128
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U '  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 129
+Recieved Packet Size: 60
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+(  .  . @  . k  .  .  . J }  .  .  .  .  . 
+ .  . l  .  . i  . E m  .  .  .  . P  .  . 
+ .  . 7  .  .  .  .  .  .  .  . 
+Packet Count: 130
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U )  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 131
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . F  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 132
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . E  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 133
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . i  .  .  .  .  . e  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 134
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . j  .  .  .  .  . d  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 135
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  .  .  .  .  . q .  .  . E  .  . 
+8 g  .  .  .  .  .  . u  .  . ! z  .  .  . 
+ .  .  .  .  .  . $  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 136
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  .  .  .  .  . q .  .  . E  .  . 
+8 g  .  .  .  .  .  . t  .  . ! z  .  .  . 
+ .  .  .  .  .  . $  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 137
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  .  .  .  .  . q .  .  . E  .  . 
+8 g  .  .  .  .  .  . s  .  . ! z  .  .  . 
+ .  .  .  .  .  . $  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 138
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  .  .  .  .  . q .  .  . E  .  . 
+8 g  .  .  .  .  .  . r  .  . ! z  .  .  . 
+ .  .  .  .  .  . $  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 139
+Recieved Packet Size: 81
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+C D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . /  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  . l o c a l  .  .  .  .  . 
+Packet Count: 140
+Recieved Packet Size: 119
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+i D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . U F  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  . l o c a l  .  .  .  .  . 
+ .  .  . <  .  .  .  .  .  .  .  .  .  . Q u 
+ .  . L  . !  .  .  .  .  .  .  .  .  .  . < 
+ .  .  .  .  . | 
+Packet Count: 141
+Recieved Packet Size: 75
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+=  .  .  .  .  .  . >  .  .  .  . |  .  .  . 
+ .  . m  .  .  . )  . |  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  .  .  .  .  . 
+Packet Count: 142
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U *  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 143
+Recieved Packet Size: 72
+Payload:
+ .  . ^  .  .  . P  .  . | 6 )  .  . E  .  . 
+: t  .  .  .  .  .  . q  .  .  . 2  .  .  . 
+ .  .  . # #  . &  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . A ' W  .  . ^  .  . n e 
+t - d i s c  . 
+Packet Count: 144
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . !  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 145
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . k  .  .  .  .  . c  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 146
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . l  .  .  .  .  . b  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 147
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . "  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 148
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . D  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 149
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . C  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 150
+Recieved Packet Size: 343
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+I C I  .  .  .  .  . [  .  .  .  .  .  .  . 
+ .  . D  . C  . 5  . ,  .  .  .  .  .  . j 
+]  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . _  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  . c  . S c 5  .  . =  .  .  . 
+ .  .  .  . _  .  . s e c u r e n a t 
+- d a d 3 1 b d f b 6 5 f <  . M 
+S F T   5 . 0 7  .  .  .  .  . , . / 
+ . ! y  . +  . 
+Packet Count: 151
+Recieved Packet Size: 81
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+C D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . /  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  . l o c a l  .  .  .  .  . 
+Packet Count: 152
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . #  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 153
+Recieved Packet Size: 355
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+U  . {  .  .  .  . b  .  .  .  .  .  .  .  . 
+ .  . D  . C  . A  . w  .  .  .  .  .  . j 
+]  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . _  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  . c  . S c 5  .  . 6  .  .  . 
+ .  . =  .  .  .  .  .  .  . _ 2  .  .  .  . 
+ .  .  . s e c u r e n a t - d a d 
+3 1 b d f b 6 5 f <  . M S F T   
+5 . 0 7  .  .  .  .  . , . /  . ! y  . 
++  . 
+Packet Count: 154
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . $  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 155
+Recieved Packet Size: 64
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  .  .  .  .  . 
+Packet Count: 156
+Recieved Packet Size: 72
+Payload:
+ .  . ^  .  .  .  .  .  .  . 3  .  .  . E  .  . 
+:  .  .  .  .  .  .  .  .  .  .  . C  .  .  . 
+ .  . ; # #  . & Y  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . @  .  . `  .  . Z  . n e 
+t - d i s c  . 
+Packet Count: 157
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U +  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 158
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U ,  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 159
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . %  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 160
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . &  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 161
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U -  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 162
+Recieved Packet Size: 64
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . }  . ;  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  .  .  .  .  . 
+Packet Count: 163
+Recieved Packet Size: 119
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+i D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . U F  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  . l o c a l  .  .  .  .  . 
+ .  .  . <  .  .  .  .  .  .  .  .  .  . Q u 
+ .  . L  . !  .  .  .  .  .  .  .  .  .  . < 
+ .  .  .  .  . | 
+Packet Count: 164
+Recieved Packet Size: 75
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+=  .  .  .  .  .  . >  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . ) H  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  .  .  .  .  . 
+Packet Count: 165
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  . < R  .  . R  .  .  . E  .  . 
+#  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . L A P T O P 
+- 8 G 5 S H 3 P T  .  .  . p  .  .  . 
+ . l  .  . p  .  .  .  . h  .  . p  .  .  . 
+ .  .  .  . p  .  .  .  . d  .  . p  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  . M h  .  .  .  .  .  .  . p  .  .  . 
+ .  .  .  . d *  .  .  . 3 '  .  .  .  .  . 
+ .  .  . M h  .  .  .  .  .  .  .  .  .  .  . 
+ .  . 5 1 j  .  .  .  .  . , % { 6 7 8 
+6 e 7 f 5 - 6 6 0 4 - 4 4 c 7 - 
+8 c f 2 - a d f 2 d d 4 6 0 1 8 
+d }  . 1 j  .  .  .  . h  .  . p  .  .  . 
+ .  .  .  . p  .  .  .  . d  .  . p  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . d  .  .  .  .  .  .  . p  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . u + X  .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 166
+Recieved Packet Size: 168
+Payload:
+ .  . ^  .  .  .   G G .  .  .  .  . E  .  . 
+ .  . !  .  .  .  . }  .  .  .  . Q  .  .  . 
+ .  . T  . l  .  . > ; M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  .  .  .  . 
+Packet Count: 167
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U .  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 168
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U /  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 169
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . m  .  .  .  .  . a  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 170
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U 0  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 171
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . n  .  .  .  .  . `  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 172
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U 1  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 173
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U 2  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 174
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . B  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 175
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . A  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 176
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U 3  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 177
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U 4  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 178
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U 5  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 179
+Recieved Packet Size: 92
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+N  .  . @  . 2  . 3 J  .  .  . }  .  .  . 
+ .  .  .  .  .  . d  .  .  .  .  .  .  .  .  . 
+ . `  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+V  .  .  .  .  . L n  . 7 F  .  .  .  .  . 
+ .  .  .  . .  . 0 # 9  .  . 
+Packet Count: 180
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 B ` @  . @  . ~  .  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  . d  .  .  .  .  . 
+ . P E  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ . 
+Packet Count: 181
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 B a @  . @  . ~  .  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  . d  .  .  .  .  . 
+ . P D  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ . 
+Packet Count: 182
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . < , 0  . "  .  .  . E  .  . 
+ .  .  .  .  .  .  . S  .  .  .  . F  .  .  . 
+ .  . d  . l  .  .  .  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 7 9 
+. 0 . 3 9 4 5 . 1 3 0   W i n d 
+o w s  .  .  .  . 
+Packet Count: 183
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . o  .  .  .  .  . _  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 184
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . p  .  .  .  .  . ^  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 185
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  . J >  . C  .  .  . E  .  . 
+$ k  .  .  .  .  .  . C  .  .  .  .  .  .  . 
+ .  .  .  . t  .  .  .  . B  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 186
+Recieved Packet Size: 90
+Payload:
+ .  .  .  .  .  .  .  .  . 6  .  .  .  . E  .  . 
+L G m  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ . 1  . 1  .  . 8 Q  .  .  . { i  . g  . 
+ .  . , [ e z  .  .  .  .  . a  .  . )  . 
+I  .  .  .  .  .  .  .  .  .  . W _ k  .  . 
+7  .  .  . t  . c ` n 
+Packet Count: 187
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . @  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 188
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . ?  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 189
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 5 < @  . @  .  . 2  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  .  .  . r  .  .  . 
+ . F  .  .  .  .  .  .  .  .  .  .  . - ?  . 
+ . 
+Packet Count: 190
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . x  .  . E  .  . 
+N  .  .  .  .  .  .  .  .  .  .  .    .  .  . 
+ .  .  .  .  .  . :  . 0  .  .  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 191
+Recieved Packet Size: 82
+Payload:
+ .  .  .  .  .  .  .  . E  .  .  .  .  . E  .  . 
+D j  .  .  .  .  .  . M  .  .  .  .  .  .  . 
+ .  . U  .  .  . 0  .  . c L 5 L a I X 
+v K 3 z g I U S 2 t s I e F n h 
+G w E v c v M f P F C M o h b w 
+A 
+Packet Count: 192
+Recieved Packet Size: 60
+Payload:
+ .  . ^  .  . ,  . 0  .  .  .  .  .  . F  .  . 
+   . /  .  .  .  .  . 3  .  .  . 8  .  .  . 
+,  .  .  .  .  .  . =  .  .  .  . ,  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 193
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . q  .  .  .  .  . ]  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 194
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . r  .  .  .  .  . \  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 195
+Recieved Packet Size: 373
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+g  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  . h x  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . A  . 
+ .  .  .  .  . .  .  .  .  .  .  .  . M %  . 
+- ; K  .  . ~ J  .  . B  .  .  .  .  .  . 
+( w  . p  .  .  .  .  .  .  . H  .  .  .  . 
+ .  .  .  .  .  . 6 v a  .  . V  . 2 b  . 
+ .  .  .  .  .  . 4  .  .  .  .  .  .  .  .  . 
+ . i  . r  .  .  .  .  .  . Z  .  .  .  .  . 
+v  . 0  . A e ] d  .  .  . g  .  .  .  . 
+ . 5 \  . x  .  .  .  . :  .  .  .  .  .  . 
+l X  .  .  .  .  . t  .  .  . ,  . g  .  . 
+ .  . \ l  .  .  .  .  .  . G  .  .  . L  . 
+ . 3 w  . v  . m 9  .  .  .  .  . L 0  . 
+ .  . ;  . s  .  . %  . 3  . & s m j  . 
+& @ k  .  . &  .  .  . K  .  .  .  .  .  . 
+ .  .  . $  .  . 9  . 3  .  .  . h z M  . 
+ .  .  .  .  . )  . ` \  . c  .  . ;  . r 
+=  .  .  .  . V  .  . ~  .  .  .  . '  .  . 
+ . (  .  .  . P Q  . j  .  .  . ;  .  . D 
+ .  . l  .  .  .  . `  . w q  .  .  .  . I 
+ .  . ( m $  .  .  .  .  .  .  .  . 0  . 1 
+D  . (  . 
+Packet Count: 196
+Recieved Packet Size: 74
+Payload:
+T  . u  .  .  .  .  . K - F  .  .  . E  .  . 
+< 3 A @  . @  .  . v  .  .  .  .  .  .  . 
+:  .  .  .  . 6  . k p  .  .  .  .  .  .  . 
+ .  . >  .  .  .  .  .  .  .  .  .  . % V  . 
+ .  .  .  .  .  .  .  .  . 
+Packet Count: 197
+Recieved Packet Size: 179
+Payload:
+ .  . ^  .  .  . H  . N C  .  .  .  . E  .  . 
+ .  .  .  .  .  .  . C y  .  .  . <  .  .  . 
+ .  . ?  . l  .  . u  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H o 
+s t :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . S T :   u r 
+n : s c h e m a s - u p n p - o 
+r g : d e v i c e : I n t e r n 
+e t G a t e w a y D e v i c e : 
+1  .  . M a n :   " s s d p : d i 
+s c o v e r "  .  . M X :   3  .  . 
+ .  . 
+Packet Count: 198
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+4  . "  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  .  .  .  .  . 
+ . j  .  .  .  .  .  .  .  . A  . @  .  .  . 
+ . 
+Packet Count: 199
+Recieved Packet Size: 270
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+ .  . $  .  . x  .  .  . J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . A  . J  .  .  . 
+ .  .  .  .  .  . j g (  . R &  .  .  . 2 
+O  .  .  .  . D , C _  .  . ?  . _ T p 
+ .  . $  . b  .  . ,  .  .  .  .  .  .  .  . 
+ .  .  .  . }  .  .  .  . k  .  .  .  .  .  . 
+ . #  .  .  . ~ O "  . , 6  . 1  .   8 
+A  .  .  . \  .  .  .  . 9 ~  .  . " h  . 
+ . | %  .  . '  . ( l 0  .  . c 2  .  . 
+H  .  . %  .  .  .  .  . g  .  .  .  . m  . 
+ . ?  .  .  .  .  .  .  .  . *  .  .  . A  . 
+ . y  . i  .  .  .  .  . 6  . {  .  . R  . 
+ .  . B  .  .  . e !  . { %  .  . c e [ 
+ .  . ~  .  . 1 p  .  .  .  .  .  . M v | 
+F  .  .  .  .  .  . ?  .  .  .  . v 
+Packet Count: 200
+Recieved Packet Size: 118
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+h  . %  .  . x  .  . w J } D  .  .  .  . 
+ .  .  .  .  . x  .  .  . N  .  .  .  .  .  . 
+ .  . :  .  .  .  .  .  .  . A  . J  .  .  . 
+ .  .  .  .  . /  .  .  . d M  . I  .  .  . 
+ . < P  .  . % p k e -  . N  .  . $  . 
+ .  .  .  . >  . F  .  .  .  .  . p  . U , 
+ . r  .  .  . 
+Packet Count: 201
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  . J } D 
+ .  .  .  .  . N  .  .  . x  .  .  .  .  .  . 
+ . i  .  .  .  .  .  .  .  .  .  . H  . A  . 
+J 
+Packet Count: 202
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  .  .  . I  .  .  .  .  . E  .  . 
+ .  .  .  .  .  .  .  . -  .  .  . ]  .  .  . 
+ .  .  .  . l  .  . ` V M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 203
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . >  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 204
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . =  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 205
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U 7  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 206
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U 8  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 207
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U 6  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 208
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  . J >  . C  .  .  . E  .  . 
+$ k  .  .  .  .  .  . B  .  .  .  .  .  .  . 
+ .  .  .  . t  .  .  .  . B  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 209
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  . J >  . C  .  .  . E  .  . 
+$ k  .  .  .  .  .  . A  .  .  .  .  .  .  . 
+ .  .  .  . t  .  . "  . B  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 210
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , u  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . : I ;  . "  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 211
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , v  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . : I <  . !  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 212
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . s  .  .  .  .  . [  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 213
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . t  .  .  .  .  . Z  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 214
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , w  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . : I :  . #  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 215
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , x  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . : I 9  . $  .  .  .  .  . 
+ .  .  .  .  .   F H F A E B E E C A 
+C A C A C A C A C A C A C A C A 
+C A C A A A  .  .    .  . 
+Packet Count: 216
+Recieved Packet Size: 64
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  .  .  .  .  . 
+Packet Count: 217
+Recieved Packet Size: 64
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+2  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . }  . ;  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  .  .  .  .  . 
+Packet Count: 218
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . <  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 219
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . ;  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 220
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E    . 
+4  .  . @  . +  .  . N  .  .  . }  .  .  . 
+ .  .  .  .  .  .  .  . r  .  .  .  .  .  .  . 
+ . J  .  .  .  .  .  .  . - ?  .  .  .  .  . 
+Y 
+Packet Count: 221
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . u  .  .  .  .  . Y  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 222
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . v  .  .  .  .  . X  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 223
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+ . j &  .  .  .  .  . <  .  .  .  .  .  .  . 
+ .  . Y  . l  .  . ^ > M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 224
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  . <  .  .  . Z {  .  . E  .  . 
+#  . $  .  .  .  .  . @  .  .  . C  .  .  . 
+ .  .  .  .  .  .  .  . U  . D E S K T O 
+P - J S D G 5 I H  .  .  . N  .  .  . 
+ .  .  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ . 0  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  . D  .  .  . 3 '  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . v  .  .  .  .  . 
+ . p h n  .  .  .  .  .  .  . : { a 7 3 
+4 0 8 0 e - c a 5 2 - 4 6 c c - 
+9 f 7 6 - 6 a c 4 b 6 9 b 8 6 e 
+9 }  . n  .  .  .  .  .  .  .  . N  .  .  . 
+ . 0  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . p  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . u  . q  .  .  .  .  .  .  .  . '  .  . 
+Packet Count: 225
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . P {  .  .  . f  .  . E  .  . 
+ . P  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . l  .  .  .  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 7 9 
+. 0 . 3 9 4 5 . 1 3 0   W i n d 
+o w s  .  .  .  . 
+Packet Count: 226
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  . |  .  .  . q  .  .  . E  .  . 
+#  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . E `  . L A P T O P 
+- I O F 8 2 U H F  .  .  . I  .  .  . 
+ . <  .  . I  .  .  .  . 8  .  . I  .  .  . 
+ . P  .  . I  .  .  .  . 4  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  . k  .  .  .  .  .  .  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ . p  . k  .  .  .  .  . p  .  .  .  .  .  . 
+ .  . ` F  .  .  .  .  .  .  . > { 9 8 b 
+e 6 d 8 7 - 3 3 3 2 - 4 3 9 3 - 
+8 c b 2 - d a 1 0 c d 0 b 7 f 3 
+a }  . F  .  .  .  .  . 8  .  . I  .  .  . 
+ . P  .  . I  .  .  .  . 4  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . u G d  .  .  .  .  .  .  . R w W  . 
+Packet Count: 227
+Recieved Packet Size: 82
+Payload:
+ .  . ^  .  .  .  .  . K - F  .  .  . E  .  . 
+D g  . @  .  .  . t )  .  .  .  .  .  .  . 
+ .  .  .  .  .  . 0  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ g o o g l e c a s 
+t  . _ t c p  . l o c a l  .  .  .  . 
+ . 
+Packet Count: 228
+Recieved Packet Size: 82
+Payload:
+ .  . ^  .  .  .  .  . K - F  .  .  . E  .  . 
+D g  . @  .  .  . t (  .  .  .  .  .  .  . 
+ .  .  .  .  .  . 0  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ g o o g l e c a s 
+t  . _ t c p  . l o c a l  .  .  .  . 
+ . 
+Packet Count: 229
+Recieved Packet Size: 74
+Payload:
+P >  .  .  .  .  .  . K - F  .  .  . E  .  . 
+<  .  . @  . @  . 6  .  .  .  .  .  .  .  . 
+P  .  .  . I `  .  .  .  .  .  .  .  .  .  . 
+ . x 0  .  .  .  .  .  .  .  .  .  . * 0 X 
+ .  .  .  .  .  .  .  .  . 
+Packet Count: 230
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . :  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 231
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 9  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 232
+Recieved Packet Size: 60
+Payload:
+ .  . ^  .  . q @  . 4  .  .  .  .  . F  .  . 
+   .  .  .  .  .  .  .  .  .  .  . N  .  .  . 
+q  .  .  .  .  .  .  .  .  .  .  . q  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 233
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . w  .  .  .  .  . W  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 234
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . x  .  .  .  .  . V  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 235
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  .  . }  . 2  .  .  .  . E  .  . 
+ .  .  .  .  .  .  . X  .  .  .  . "  .  .  . 
+ .  .  .  . l  .  . v 7 M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 236
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 B b @  . @  . ~  .  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  . d  .  .  .  .  . 
+ . N R  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ . 
+Packet Count: 237
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  .  .  . 8  . 6  .  .  . E  .  . 
+#  .  .  .  .  .  . @ O  .  .  . {  .  .  . 
+ .  .  .  .  .  .  . | '  . K u s h w a 
+n t h  .  .  .  .  .  . @  .  . q C  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ .  . H B  .  .  .  .  . `  . H  .  .  .  . 
+ . =  .  . [  .  .  .  .  .  .  .  .  .  .  . 
+ . | j  . w  .  .  .  . @  . \ P  .  .  . 
+ . y  .  . q C  .  .  .  .  .  .  .  .  .  . 
+ .  .  . H  .  .  .  .  .  .  .  . q C  .  . 
+ .  .  .  . q C  .  .  .  . K _ { 9 a 1 
+a d 0 b 3 - 2 8 0 c - 4 5 e f - 
+b 0 f 7 - f b 7 b 7 4 d f 2 5 8 
+2 }  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . q C  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 238
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . y  .  .  .  .  . U  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 239
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . z  .  .  .  .  . T  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 240
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 8  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 241
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 7  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 242
+Recieved Packet Size: 60
+Payload:
+ .  . ^  .  .  . 8  . G  . / x  .  . F  .  . 
+  j z  .  .  .  . "  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 243
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  .  .  . a  . -  .  .  . E  .  . 
+#  . P  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . >  .  . M S I  .  .  . 
+ .  .  . I  . d  .  .  . `  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ .  .  . I  . d  .  .  .  .  .  .  . d  .  . 
+ . =  . j  .  .  .  .  .  .  .  .  .  .  .  . 
+ . | j  . Z  .  .  .  .  .  .  . [  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  . d  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . Y { 1 a b 
+7 4 1 2 d - 6 d b 9 - 4 a 3 2 - 
+a 8 6 b - 2 f c 3 7 b 5 a 8 b 0 
+0 }  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 244
+Recieved Packet Size: 605
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+O 7 ; @  . 2  . U H  . R q  .  .  .  . 
+ .  .  .  . z  .  . < l  . i  .  .  .  .  . 
+ . 6  .  .  .  .  .  .  . W  .  .  . u  .  . 
+}  .  .  . j  .  . D  .  . + m `  .  .  . 
+ .  . k ' = o U  .  .  .  . 2  . a A  . 
+ . 4  .  . -  .  . / j  .  . :  .  . Q O 
+S =  .  . B  .  .  . I  . ! [ + &  .  . 
+(  .  .  . %  . m 4  . A  .  .  . Z +  . 
+ .  . '  .  .  .  . X " M M  .  .  .  .  . 
+ . k  .  .  .  .  . )  .  .  .  .  .  .  . ` 
+M 4  . i S e  . N  .  . q A s  .  .  . 
+*  .  .  . m  .  .  . ^  . 5  . ~  . 2 T 
+ .  . 3 N  . N  .  .  .  . *  . F F c b 
+ . p  .  . |  .  . d B S  .  . G  .  . ` 
+ .  .  .  . Y  . c 3  .  . G  .  .  . Y  . 
+ . " |  .  .  .  .  .  . g  . K  .  .  .  . 
+ .    .  . ! *  .  .  .  . L .  . : )  . 
+ . 3 e  . P  .  .  . & J $  .  .  . ` 8 
+ . X r  .  .  .  .  .  .  . @  .  . ]  .  . 
+ .  .  . ` d  . <  .  .  .  .  .  . | I  . 
+ . J 3  . !  .  .  .  .  .  . ) z U  . P 
+$  .  .  .  . p 3 . T  . f  .  .  .  .  . 
+ . r  .  .  .  .  .  .  .  .  .  .  .  . > / 
+p ]  .  .  .  . I  .  .  . V  . @ 4  . w 
+ .  .  . >  .  .  . L  .  .  .  . k  .  .  . 
+ .  .  . .  . C  . T  .  . P  .  .  .  . q 
+b  .  . r   {  .  .  .  . _ > ;  .  .  . 
+, 7 f j & r A v d x  .  .  . "  .  . 
+< e  . ?   ]  .  .  .  . K 2  . M  .  . 
+z W  .  . :  .  . Q  . k .  . #  .  . O 
+c p  .  .  .  .  . H W Y  . " %  .  .  . 
+ .  .  . s v d  .  . /  . * B !  .  . V 
+[  .  . o  . 6  .  . 4  .  .  .  .  .  .  . 
+3 J  .  .  .  . 5  .  . U  . T  . n y  . 
+o  .  .  .  . B  .  . W  .  . I  . ~  .  . 
+Y  .  . V 9  .  . a  . d  . 3  .  .  .  . 
+ . z # ! > =  .  . 5  . X ' 
+Packet Count: 245
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  .  . R q 
+ .  . z  .  .  . i  .  .  .  . >  .  .  .  . 
+ .  . j  .  .  .  .  .  . u  . % Q W  .  . 
+ . 
+Packet Count: 246
+Recieved Packet Size: 130
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+t  .  . @  . @  .  .  .  .  .  .  .  . R q 
+ .  . z  .  .  . i  .  .  .  . >  .  .  .  . 
+ . g E  .  .  .  .  .  . u  . % R W  .  . 
+ .  .  .  .  .  .  .  .  .  .  . 5  . 2 7  . 
+M 1  . V i ^  . L  .  .  .  .  .  .  . 7 
+, 6  . z B  .  .  . k  .  .  .  .  .  .  . 
+=  . 9 y  .  . B  .  .  .  .  .  .  .  .  . 
+l 
+Packet Count: 247
+Recieved Packet Size: 1028
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+ .  .  . @  . @  .  .  .  .  .  .  .  . R q 
+ .  . z  .  .  . i  .  .  .  . >  .  .  .  . 
+ . _  .  .  .  .  .  .  . u  . % R W  .  . 
+ .  .  .  .  .  .  .  . ;  . [  . {  .  . - 
+ .  .  . h ,  .  . n K  .  .  . 1  .  .  . 
+ .  . \  .  .  .  .  . B  . P =  .  .  .  . 
+ . a d  .  . K  . ( H Z  .  .  . 5  .  . 
+k n y  . I  . 3  .  .  .  .  .  .  .  .  . 
+ .  .  .  . 6  .  . M  .  .  .  .  .  .  .  . 
+ . (  . _  .  .  .  .  .  . 9  .  .  . =  . 
+ . . r  .  . W  .  . :  .  .  . L i  .  . 
+X  .  . S $  . 7  .  . U J K  .  .  . 3 
+w  .  .  . |  .  .  . w  .  . %  . :  . 9 
+ .  . ]  .  .  .  . v  . V = /  .  . B  . 
+ . ;  .  .  .  . q  .  .  .  .  . w 3 %  . 
+ .  .  . g  .  .  . -  . I 9 d X ! B  . 
+ .  .  . |  . n  .  . {  . # <  .  .  . - 
+ . A  .  .  .  . a G  .  . A  . - Q I ] 
+ . 1  . h  .  .  . {  .  .  .  . ( D  . " 
+|  .  .  .  . } !  .  .  .  .  .  . 2  .  . 
+ .  .  . A  .  .  .  .  .  .  .  .  . ` ^  . 
+N f \  .  . i _ O  .  .  . 3  .  . 9 } 
+E  .  . K  . J  . I  . @  .  .  .  .  .  . 
+ .  .  . G Q  . n 7 !  .  . J = l  .  . 
+ .  . v X  .  . j  .  .  . o |  .  . }  . 
+=  .  .  .  .  . D '  .  . r o  . (  . I 
+ .  .  .  . t  . U  .  .  .  . I  .  .  .  . 
+ .  .  .  . / q  .  .  .  . c  .  . ~  . ? 
+ .  . a o  . {  .  .  .  . / S |  . b @ 
+;  .  . 9  .  .  .  .  . \  . _  .  .  .  . 
+ . x  . /  . X  .  . D M +  . `  .  . l 
+ . =  . + / t  .  .  .  .  .  .  .  .  .  . 
+ . / c  . b  .  . * "  . H  .  .  .  .  . 
+W [ j  . G  . :  . [  .  . k  .  .  .  . 
+ . i  . n  .  .  .  .  .  . 2    . !  .  . 
+ . g  .  . M  .  . R  .  .  .  .  .  . * 0 
+L  . S  .  .  .  .  . ~ d $ +  .  .  .  . 
+ .  .  .  .  .  .  . q 6  .  .  .  .  .  .  . 
+ . : U  .  .  .  .  .  .  . 2  .  . &  . t 
+9  . S  . @  .  . ]  . t  . a  . h  .  . 
+ .  . 3  . 8  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . -  .  .  .  . > / #  .  . 
+ . u  .  . = O  .  .  . u W  . m  .  . ( 
+ . N  . k  .  .  . |  .  .  .  .  . W  .  . 
+ .  .  .  .  . y  .  .  .  .  . @  .  .  . 2 
+ .  .  .  . 8  .  .  .  . 0  . / }  .  .  . 
+ .  .  . u  .  . |  . Y c  . H  .  .  .  . 
+ . F z =  . j  .  .  .  .  .  . _  .  .  . 
+ . 3 m ( <  .  .  .  . [ c y Q  .  . > 
+ .  . y "  .  .  .  .  .  .  .  . Q  .  . @ 
+U  .  . >  .  .  .  .  .  .  . K  . Q  . $ 
+ . I 0  . O  .  . r @  . [  . `  . "  . 
+ .  .  .  . 4  .  .  .  .  .  . L 3 @ W ` 
+ . ]  .  .  .  .  . 1  . "  . j  .  . c ( 
+M  .  .  .  . 0 ` u  .  . >  . k  .  .  . 
+ .  .  .  .  .  .  .  .  . ! " i  .  .  . C 
+c ~  .  . _ 6  . Q ] Q  . l  .    .  . 
+ .  . 4  .  . t j  .  .  .  .  .  .  .  . W 
+ . s z  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . _ Y  . w r % Y s  . ~  .  .  .  . 
+e  .  . k  .  . T  .  .  . D  .  .  .  .  . 
+L o L w  .  . \ ^ n  . l w  .  .  . \ 
+I '  . Y  .  . L  .  .  .  . n 5  .  .  . 
+ . >  . 
+Packet Count: 248
+Recieved Packet Size: 82
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+D D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . 0  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ g o o g l e c a s 
+t  . _ t c p  . l o c a l  .  .  .  . 
+ . 
+Packet Count: 249
+Recieved Packet Size: 82
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+D D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . 0  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ g o o g l e c a s 
+t  . _ t c p  . l o c a l  .  .  .  . 
+ . 
+Packet Count: 250
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ . g  .  .  .  .  . "  .  .  .  .  .  .  .  . 
+ . D \ D \  .  . 1 t { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 251
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ .  .  .  .  .  .  . E  .  .  .  .  .  .  .  . 
+ . D \ D \  .  .  . b { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 252
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ . g  .  .  .  .  . "  .  .  .  .  .  .  .  . 
+ . D \ D \  .  . 1 t { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 253
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ . g  .  .  .  .  . "  .  .  .  .  .  .  .  . 
+ . D \ D \  .  . 1 t { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 254
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ . g  .  .  .  .  . "  .  .  .  .  .  .  .  . 
+ . D \ D \  .  . 1 t { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 255
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ . g  .  .  .  .  . " ~  .  .  .  .  .  .  . 
+ . D \ D \  .  . 1 t { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 256
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ . g  .  .  .  .  . " }  .  .  .  .  .  .  . 
+ . D \ D \  .  . 1 t { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 257
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ . g  .  .  .  .  . " |  .  .  .  .  .  .  . 
+ . D \ D \  .  . 1 t { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 258
+Recieved Packet Size: 175
+Payload:
+ .  .  .  .  .  .  .  .  .  .  . _  .  . E  .  . 
+ . g  .  .  .  .  . " {  .  .  .  .  .  .  . 
+ . D \ D \  .  . 1 t { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   8 0 2 7 6 2 9 3 
+2 3 2 0 7 6 2 2 8 4 5 8 2 1 4 9 
+7 2 1 5 9 6 7 5 0 0 4 6 6 9 ,   
+" d i s p l a y n a m e " :   " 
+" ,   " n a m e s p a c e s " : 
+  [ 4 6 2 6 8 2 8 7 2 0 ] } 
+Packet Count: 259
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  .  .  . >  .  .  .  .  . E  .  . 
+# #  .  .  .  .  .  .  .  .  .  . "  .  .  . 
+ .  .  .  .  .  .  .  . `  . L A P T O P 
+- K 9 L 9 C 9 1 D  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ .  .  . g  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  . 0  .  .  .  .  .  .  .  .  .  .  .  . 
+ . | j  . _  .  .  .  .  .  .  . _  .  .  . 
+ . Y  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . < { 5 6 d 
+4 b 7 3 1 - c 0 4 e - 4 5 6 d - 
+9 c f 0 - b 8 8 b 0 d 9 e 7 7 4 
+7 }  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . 5  . 4 x 
+Packet Count: 260
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . {  .  .  .  .  . S  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 261
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . |  .  .  .  .  . R  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 262
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 6  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 263
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 5  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 264
+Recieved Packet Size: 93
+Payload:
+ .  .  .  .  .  . < R  .  .  .    .  . E  .  . 
+O l  .  .  .  .  .  . \  .  .  . D  .  .  . 
+ .  .  .    .  . ; 4  . 1 7 2 . 1 7 . 
+2 . 6 8 : 8 1 9 3 : L A P T O P 
+- P R 4 1 Q B H E : 1 . 3 . 1 4 
+3 8 : 3 : 1 1 6 9 1 1 5 
+Packet Count: 265
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . }  .  .  .  .  . Q  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 266
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  . ~  .  .  .  .  . P  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 267
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . P >  .  .  .  .  .  . E  .  . 
+ . G &  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . 6  . l  .  .  .  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 268
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 4  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 269
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 3  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 270
+Recieved Packet Size: 156
+Payload:
+ .  . ^  .  .  .  .  . N 9  . T  .  . E  .  . 
+ .  .  .  .  .  .  . E  .  .  . > +  .  .  . 
+ .  .  .  .  .  . z  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . _ c o m p a n i o n 
+- l i n k  . _ t c p  . l o c a l 
+ .  .  .  .  .  .  .  .  .  .  .  . S J  .  . 
+ . S J  . _ d e v i c e - i n f o 
+ .  .  .  .  .  .  .  .  .  .  .  .  . m o d 
+e l = M a c B o o k A i r 7 , 2 
+ . o s x v e r s = 1 9 
+Packet Count: 271
+Recieved Packet Size: 72
+Payload:
+ .  . ^  .  .  . P  .  . | 6 )  .  . E  .  . 
+: t  .  .  .  .  .  . p  .  .  . 2  .  .  . 
+ .  .  . # #  . &  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . A ' W  .  . |  . < n e 
+t - d i s c  . 
+Packet Count: 272
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . (  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 273
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . )  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 274
+Recieved Packet Size: 79
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+A  . *  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . -  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w s t k l x m u l v 
+z s a  . l o c a l  .  .  .  .  . 
+Packet Count: 275
+Recieved Packet Size: 72
+Payload:
+ .  . ^  .  .  .  .  .  .  . 3  .  .  . E  .  . 
+:  .  .  .  .  .  .  .  .  .  .  . C  .  .  . 
+ .  . ; # #  . &  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . @  .  . p  .  .  .  . n e 
+t - d i s c  . 
+Packet Count: 276
+Recieved Packet Size: 77
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+?  . +  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . + 6 <  .  .  .  .  .  .  . 
+ .  .  .  .  .  . j q a b u k w s n u 
+d  . l o c a l  .  .  .  .  . 
+Packet Count: 277
+Recieved Packet Size: 77
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+?  . ,  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . + > \  .  .  .  .  .  .  . 
+ .  .  .  .  .  . h m g g j w k o b d 
+c  . l o c a l  .  .  .  .  . 
+Packet Count: 278
+Recieved Packet Size: 79
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+A  . -  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . -  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w s t k l x m u l v 
+z s a  . l o c a l  .  .  .  .  . 
+Packet Count: 279
+Recieved Packet Size: 77
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+?  . .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . + 6 <  .  .  .  .  .  .  . 
+ .  .  .  .  .  . j q a b u k w s n u 
+d  . l o c a l  .  .  .  .  . 
+Packet Count: 280
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . /  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 281
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . O  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 282
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . N  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 283
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . 0  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 284
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . 1  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 285
+Recieved Packet Size: 73
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+;  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . '  . 4 ~ *  .  .  .  .  . 
+ .  .  .  .  .  . w s t k l x m u l v 
+z s a  .  .  .  .  . 
+Packet Count: 286
+Recieved Packet Size: 66
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+4 7 < @  . 2  . W b  . R q  .  .  .  . 
+ .  .  .  . z  .  . >  .  . i  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . W  .  .  . u  . % 
+R 
+Packet Count: 287
+Recieved Packet Size: 145
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+ . 7 > @  . 2  . W  .  . R q  .  .  .  . 
+ .  .  .  . z  .  . >  .  . i  .  .  .  .  . 
+ . R l  .  .  .  .  .  . W  .  .  . u  . % 
+R  .  .  .  . J  .  .  . E  .  . N  . p  . 
+ . p  . D  .  . C  .  . X  . = i H  . 1 
+7  .  .  .  . N > v  .  . A M  . \ ]  . 
+0 ,  .  .  .  . e  .  . M  .  .  . <  . . 
+(  .  . X m  .  . 2  . p f u  .  .  .  . 
+Packet Count: 288
+Recieved Packet Size: 78
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+@  .  . @  . @  .  .  .  .  .  .  .  . R q 
+ .  . z  .  .  . i  .  .  .  . >  .  .  .  . 
+ .  . i  .  .  .  .  .  . u  . & W W  .  . 
+ .  .  .  .  .  .  . >  .  .  . ? % 
+Packet Count: 289
+Recieved Packet Size: 71
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+9  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . % 3 u ' \  .  .  .  .  . 
+ .  .  .  .  .  . j q a b u k w s n u 
+d  .  .  .  .  . 
+Packet Count: 290
+Recieved Packet Size: 70
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+8  . 2  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . $ - `  .  .  .  .  .  .  . 
+ .  .  .  .  .  . w p a d  . l o c a l 
+ .  .  .  .  . 
+Packet Count: 291
+Recieved Packet Size: 77
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+?  . 3  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . + > \  .  .  .  .  .  .  . 
+ .  .  .  .  .  . h m g g j w k o b d 
+c  . l o c a l  .  .  .  .  . 
+Packet Count: 292
+Recieved Packet Size: 71
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+9  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . % a  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . h m g g j w k o b d 
+c  .  .  .  .  . 
+Packet Count: 293
+Recieved Packet Size: 86
+Payload:
+ .  .  .  .  .  .   G G .  .  .  .  . E  .  . 
+H  .  .  .  .  .  .  .  .  .  .  . Q  .  .  . 
+ .  .  .  .  .  . 4  .  . S p o t U d p 
+0 N  .  . E  .  . 9 #  .  .  .  . H  .  . 
+ . 1 W #  .  .  . w  .  . t  .  .    .  . 
+&  .  . 7 J 
+Packet Count: 294
+Recieved Packet Size: 169
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+ .  .  .  .  .  .  . D 0  .  .  . |  .  .  . 
+ .  .  .  . l  .  .  . z M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H o 
+s t :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . S T :   u u 
+i d : 9 1 e 6 d e 4 a - 6 c 1 2 
+- 4 c 3 2 - a 7 c 5 - 0 6 d 7 5 
+c f 0 4 4 9 3  .  . M a n :   " s 
+s d p : d i s c o v e r "  .  . M 
+X :   3  .  .  .  . 
+Packet Count: 295
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  . < R  .  . R  .  .  . E  .  . 
+#  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . L A P T O P 
+- 8 G 5 S H 3 P T  .  .  . p  .  .  . 
+ . l  .  . p  .  .  .  . h  .  . p  .  .  . 
+ .  .  .  . p  .  .  .  . d  .  . p  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  . M h  .  .  .  .  .  .  . p  .  .  . 
+ .  .  .  . d  .  .  .  . 3 '  .  .  .  .  . 
+ .  .  . M h  .  .  .  .  .  .  .  .  .  .  . 
+ .  . 5 1 j  .  .  .  .  . - % { 6 7 8 
+6 e 7 f 5 - 6 6 0 4 - 4 4 c 7 - 
+8 c f 2 - a d f 2 d d 4 6 0 1 8 
+d }  . 1 j  .  .  .  . h  .  . p  .  .  . 
+ .  .  .  . p  .  .  .  . d  .  . p  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . d  .  .  .  .  .  .  . p  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . u + X  .  .  .  .  .  .  .  .  . _ ! 
+Packet Count: 296
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  . 9  . t =  .  .  . E  .  . 
+N  . C  .  .  .  .  . A  .  .  .  .  .  .  . 
+ .  .  .  .  .  . : .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .   E M E B F A F E E P 
+F A C N E I D H F E D I D H E F 
+D A D J B M  .  .    .  . 
+Packet Count: 297
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U 9  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 298
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U :  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 299
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U ;  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 300
+Recieved Packet Size: 81
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+C D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . /  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  . l o c a l  .  .  .  .  . 
+Packet Count: 301
+Recieved Packet Size: 119
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+i D  .  .  .  .  .  .  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . U F  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  . l o c a l  .  .  .  .  . 
+ .  .  . <  .  .  .  .  .  .  .  .  .  . Q u 
+ .  . L  . !  .  .  .  .  .  .  .  .  .  . < 
+ .  .  .  .  . | 
+Packet Count: 302
+Recieved Packet Size: 75
+Payload:
+ .  . ^  .  .  .  . 4 V x  .  .  .  . E  .  . 
+=  .  .  .  .  .  . >  .  .  .  . |  .  .  . 
+ .  .  .  .  .  . )  . B  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - S 4 
+K F 6 4 7  .  .  .  .  . 
+Packet Count: 303
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U <  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 304
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 2  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 305
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 1  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 306
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U >  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 307
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U =  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 308
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U ?  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 309
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U @  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 310
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4 B c @  . @  . ~  .  .  .  .  .  .  .  . 
+}  .  .  .  .  .  .  .  .  . d  .  .  .  .  . 
+ . L r  .  .  .  .  .  .  .  .  . _  .  .  . 
+ . 
+Packet Count: 311
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U A  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 312
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . h  . (  .  . )  .  . E  .  . 
+ . d _  .  .  .  .  . }  .  .  . ;  .  .  . 
+ .  .  .  . l  .  . Y  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 313
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . M  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 314
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . L  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 315
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U B  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 316
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U C  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 317
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U D  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 318
+Recieved Packet Size: 91
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+M U E  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . 9  . t  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . X 
+Packet Count: 319
+Recieved Packet Size: 111
+Payload:
+ .  . ^  .  .  .  . T  . C 3  .  .  . E  .  . 
+a U F  .  .  .  .  .  .  .  .  . X  .  .  . 
+ .  .  .  .  .  . M =  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . D E S K T O P - V 2 
+1 K T V M  . l o c a l  .  .  .  .  . 
+ .  .  . x  .  .  .  .  . X  .  .  . /  .  . 
+ .  .  . x  .  .  .  .  .  . @  .  .  . 
+Packet Count: 320
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . < , 0  . "  .  .  . E  .  . 
+ .  .  .  .  .  .  . S  .  .  .  . F  .  .  . 
+ .  . d  . l  .  .  .  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 7 9 
+. 0 . 3 9 4 5 . 1 3 0   W i n d 
+o w s  .  .  .  . 
+Packet Count: 321
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . 0  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 322
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . /  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 323
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . K  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 324
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . J  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 325
+Recieved Packet Size: 329
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+; 7 ? @  . 2  . V X  . R q  .  .  .  . 
+ .  .  .  . z  .  . ? %  . i  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . W  .  . 2 u  . & 
+W  .  .  .  .  . f L  . 7 o  .  .  .  . ' 
+ .  .  . J  .  .  .  . M  .  .  .  .  .  .  . 
+6  .  .  . W  . 4 9  .  . J { < & | ( 
+T  .  .  .  .  .  .  .  .  .  . g  .  . l  . 
+n  . ^  . E  .  .  . F X  .  .  .  . j Q 
+ .  .  . Q  .  .  . _  . ? 2  . :  .  . z 
+ . Q  . / y  .  .  . m  .  . n 0 2 8 % 
+ .  . > B  .  .  .  . ) Q  . w  . + S 4 
+ .  .  .  .  . b  .  .  . f  .  .  . Z  . 1 
+ . d e  . b F /  . l  . 2  .  .  .  .  . 
+ .  . c U  .  .  . " R  .  . 0  .  .  .  . 
+m X  . y  . #  .  .  .  .  .  .  . K  .  . 
+ .  .  .  .  .  . +  .  . F u  .  .  .  .  . 
+ . # c  .  .  . 5 0  .  .  . + r  .  .  . 
+^ .  . ~  .  .  . f  .  .  .  .  . t  .  . 
+e  . H  .  .  .  .  . C  . 0 E L  .  .  . 
+ .  . '  .  .  . u M 
+Packet Count: 326
+Recieved Packet Size: 78
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+@  .  . @  . @  .  .  .  .  .  .  .  . R q 
+ .  . z  .  .  . i  .  .  .  . >  .  .  .  . 
+ .  . X  .  .  .  .  .  . u  . ' a W  .  . 
+ .  .  .  .  .  .  . >  .  .  . @ , 
+Packet Count: 327
+Recieved Packet Size: 74
+Payload:
+T  . u  .  .  .  .  . K - F  .  .  . E  .  . 
+< \  . @  . @  . q )  .  .  .  .  .  .  . 
+:  .  .  .  . W  .  .  .  .  .  .  .  .  .  . 
+ .  . y  .  .  .  .  .  .  .  .  .  . % V  . 
+h  .  .  .  .  .  .  .  . 
+Packet Count: 328
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 329
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . -  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 330
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . I  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 331
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . H  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 332
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  .  .  . I  .  .  .  .  . E  .  . 
+ .  .  .  .  .  .  .  . ,  .  .  . ]  .  .  . 
+ .  .  .  . l  .  . ` V M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 333
+Recieved Packet Size: 71
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+9  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . % 3 u ' \  .  .  .  .  . 
+ .  .  .  .  .  . j q a b u k w s n u 
+d  .  .  .  .  . 
+Packet Count: 334
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . G  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 335
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . F  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 336
+Recieved Packet Size: 73
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+;  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . '  . 4 ~ *  .  .  .  .  . 
+ .  .  .  .  .  . w s t k l x m u l v 
+z s a  .  .  .  .  . 
+Packet Count: 337
+Recieved Packet Size: 71
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+9  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . % a  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  . h m g g j w k o b d 
+c  .  .  .  .  . 
+Packet Count: 338
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . ,  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 339
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . +  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 340
+Recieved Packet Size: 176
+Payload:
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . E  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ . D \ D \  .  .  .  . { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   1 4 8 3 2 6 3 0 
+7 3 7 5 4 9 5 8 1 6 5 1 4 3 1 6 
+9 3 0 4 6 4 8 4 4 6 7 4 0 7 6 , 
+  " d i s p l a y n a m e " :   
+" " ,   " n a m e s p a c e s " 
+:   [ 6 8 4 8 4 3 8 4 9 6 ] } 
+Packet Count: 341
+Recieved Packet Size: 176
+Payload:
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . E  .  . 
+ .  .  .  .  .  .  .  . I  .  .  .  .  .  .  . 
+ . D \ D \  .  . ;  . { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   1 4 8 3 2 6 3 0 
+7 3 7 5 4 9 5 8 1 6 5 1 4 3 1 6 
+9 3 0 4 6 4 8 4 4 6 7 4 0 7 6 , 
+  " d i s p l a y n a m e " :   
+" " ,   " n a m e s p a c e s " 
+:   [ 6 8 4 8 4 3 8 4 9 6 ] } 
+Packet Count: 342
+Recieved Packet Size: 176
+Payload:
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . E  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ . D \ D \  .  .  .  . { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   1 4 8 3 2 6 3 0 
+7 3 7 5 4 9 5 8 1 6 5 1 4 3 1 6 
+9 3 0 4 6 4 8 4 4 6 7 4 0 7 6 , 
+  " d i s p l a y n a m e " :   
+" " ,   " n a m e s p a c e s " 
+:   [ 6 8 4 8 4 3 8 4 9 6 ] } 
+Packet Count: 343
+Recieved Packet Size: 176
+Payload:
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . E  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ . D \ D \  .  .  .  . { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   1 4 8 3 2 6 3 0 
+7 3 7 5 4 9 5 8 1 6 5 1 4 3 1 6 
+9 3 0 4 6 4 8 4 4 6 7 4 0 7 6 , 
+  " d i s p l a y n a m e " :   
+" " ,   " n a m e s p a c e s " 
+:   [ 6 8 4 8 4 3 8 4 9 6 ] } 
+Packet Count: 344
+Recieved Packet Size: 176
+Payload:
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . E  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ . D \ D \  .  .  .  . { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   1 4 8 3 2 6 3 0 
+7 3 7 5 4 9 5 8 1 6 5 1 4 3 1 6 
+9 3 0 4 6 4 8 4 4 6 7 4 0 7 6 , 
+  " d i s p l a y n a m e " :   
+" " ,   " n a m e s p a c e s " 
+:   [ 6 8 4 8 4 3 8 4 9 6 ] } 
+Packet Count: 345
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  . <  .  .  . Z {  .  . E  .  . 
+#  . %  .  .  .  .  . ?  .  .  . C  .  .  . 
+ .  .  .  .  .  .  . _ l  . D E S K T O 
+P - J S D G 5 I H  .  .  . N  .  .  . 
+ .  .  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ . 0  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  . D  .  .  . 3 '  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . v  .  .  .  .  . 
+ . p h n  .  .  .  .  .  .  . : { a 7 3 
+4 0 8 0 e - c a 5 2 - 4 6 c c - 
+9 f 7 6 - 6 a c 4 b 6 9 b 8 6 e 
+9 }  . n  .  .  .  .  .  .  .  . N  .  .  . 
+ . 0  .  . N  .  .  .  .  .  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . p  .  . N  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . u  . q  .  .  .  .  .  .  . Z w (  . 
+Packet Count: 346
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . T  . d  . k  .  .  . E  .  . 
+ . j '  .  .  .  .  . ;  .  .  .  .  .  .  . 
+ .  . Y  . l  .  . ^ > M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 347
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . E  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 348
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . D  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 349
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  .  . (  . 7  . >  .  . E  .  . 
+ . n  .  .  .  .  .  . K  .  .  .  .  .  .  . 
+ .  .  .  . l  .  . Y  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 7 9 
+. 0 . 3 9 4 5 . 1 3 0   W i n d 
+o w s  .  .  .  . 
+Packet Count: 350
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  . P {  .  .  . f  .  . E  .  . 
+ . P  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . l  .  .  .  . M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 7 9 
+. 0 . 3 9 4 5 . 1 3 0   W i n d 
+o w s  .  .  .  . 
+Packet Count: 351
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  . |  .  .  . q  .  .  . E  .  . 
+#  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  . L A P T O P 
+- I O F 8 2 U H F  .  .  . I  .  .  . 
+ . <  .  . I  .  .  .  . 8  .  . I  .  .  . 
+ . P  .  . I  .  .  .  . 4  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  . k  .  .  .  .  .  .  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ . p  . k  .  .  .  .  . p  .  .  .  .  .  . 
+ .  . ` F  .  .  .  .  .  .  . > { 9 8 b 
+e 6 d 8 7 - 3 3 3 2 - 4 3 9 3 - 
+8 c b 2 - d a 1 0 c d 0 b 7 f 3 
+a }  . F  .  .  .  .  . 8  .  . I  .  .  . 
+ . P  .  . I  .  .  .  . 4  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  . I  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  . u G d  .  .  .  .  .  .  .  .  .  .  . 
+Packet Count: 352
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . *  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 353
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . )  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 354
+Recieved Packet Size: 74
+Payload:
+P >  .  .  .  .  .  . K - F  .  .  . E  .  . 
+<  .  . @  . @  . 6  .  .  .  .  .  .  .  . 
+P  .  .  . I `  .  .  .  .  .  .  .  .  .  . 
+ . t 9  .  .  .  .  .  .  .  .  .  . * 0 \ 
+ .  .  .  .  .  .  .  .  . 
+Packet Count: 355
+Recieved Packet Size: 216
+Payload:
+ .  . ^  .  .  .  . }  . 2  .  .  .  . E  .  . 
+ .  .  .  .  .  .  . X  .  .  .  . "  .  .  . 
+ .  .  .  . l  .  . v 7 M - S E A R C 
+H   *   H T T P / 1 . 1  .  . H O 
+S T :   2 3 9 . 2 5 5 . 2 5 5 . 
+2 5 0 : 1 9 0 0  .  . M A N :   " 
+s s d p : d i s c o v e r "  .  . 
+M X :   1  .  . S T :   u r n : d 
+i a l - m u l t i s c r e e n - 
+o r g : s e r v i c e : d i a l 
+: 1  .  . U S E R - A G E N T :   
+G o o g l e   C h r o m e / 8 0 
+. 0 . 3 9 8 7 . 1 1 6   W i n d 
+o w s  .  .  .  . 
+Packet Count: 356
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . C  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 357
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . B  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 358
+Recieved Packet Size: 145
+Payload:
+ .  . K - F  .  .  .  . }  . E  .  . E  .  . 
+ . 7 @ @  . 2  . W  .  . R q  .  .  .  . 
+ .  .  .  . z  .  . >  .  . i  .  .  .  .  . 
+ .  . E  .  .  .  .  .  . W  .  .  . u  . ' 
+a  .  .  .  . J g  . l  . w b  .  . h  . 
+ .  . I  . 3 - 1  .  .  .  .  .  . 7  .  . 
+ .  . ; L ~  .  .  .  . F R  .  . \  . F 
+ .  . C  .  .  .  . "  .  .  .  . d  .  .  . 
+ .  .  . p  . B  . a  .  . h  . , B  .  . 
+Packet Count: 359
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  .  . R q 
+ .  . z  .  .  . i  .  .  .  . @ ,  .  .  . 
+ .  .  .  .  .  .  .  .  . u  . (  . W  .  . 
+ . 
+Packet Count: 360
+Recieved Packet Size: 96
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+R  .  . @  . @  .  .  .  .  .  .  .  . R q 
+ .  . z  .  .  . i  .  .  .  . @ ,  .  .  . 
+ . y  .  .  .  .  .  .  . u  . (  . W  .  . 
+ .  .  .  .  .  .  . 1 K  .  .  . G  . d  . 
+9  . Q  .  .  . : G 9  .  . r  . r  . 
+Packet Count: 361
+Recieved Packet Size: 66
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+4  .  . @  . @  .  .  .  .  .  .  .  . R q 
+ .  . z  .  .  . i  .  .  .  . @ ,  .  .  . 
+ .  . d  .  .  .  .  .  . u  . (  . W  .  . 
+ . 
+Packet Count: 362
+Recieved Packet Size: 92
+Payload:
+ .  .  .  .  .  .  .  .  .  . q .  .  . E  .  . 
+N , y  .  .  .  . r  .  .  . ! z  .  . ! 
+ .  .  .  .  .  . :  . )  . &  .  .  .  .  . 
+ .  .  .  .  .   F H E P F C E L E H 
+F C E P F F F A C A C A C A C A 
+C A C A B M  .  .    .  . 
+Packet Count: 363
+Recieved Packet Size: 74
+Payload:
+ .  .  . }  . E  .  . K - F  .  .  . E  .  . 
+<  .  . @  . @  . o  .  .  .  .  .  . R q 
+ .  .  .  .  .  . < s  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  . u  . ( 
+ .  .  .  .  .  .  .  .  . 
+Packet Count: 364
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  .  .  . 8  . 6  .  .  . E  .  . 
+#  .  .  .  .  .  . @ N  .  .  . {  .  .  . 
+ .  .  .  .  .  .  . Q g  . K u s h w a 
+n t h  .  .  .  .  .  . @  .  . q C  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ .  . H B  .  .  .  .  . `  . H  .  .  .  . 
+ . =  .  . [  .  .  .  .  .  .  .  .  .  .  . 
+ . | j  . w  .  .  .  . @  . \ P  .  .  . 
+ . y  .  . q C  .  .  .  .  .  .  .  .  .  . 
+ .  .  . H  .  .  .  .  .  .  .  . q C  .  . 
+ .  .  .  . q C  .  .  .  . L _ { 9 a 1 
+a d 0 b 3 - 2 8 0 c - 4 5 e f - 
+b 0 f 7 - f b 7 b 7 4 d f 2 5 8 
+2 }  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  . q C  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . 6 5 
+Packet Count: 365
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . (  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 366
+Recieved Packet Size: 60
+Payload:
+ .  .  .  .  .  .  .  .  .  . !  .  .  . E  .  . 
++ E  .  .  .  .  .  . '  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  . #  . B C   1 0 a q 
+e e l - y o g a  .  .  . 
+Packet Count: 367
+Recieved Packet Size: 176
+Payload:
+ .  .  .  .  .  .  .  . , p  . /  .  . E  .  . 
+ . n  .  .  .  .  . l  .  .  .  .  .  .  .  . 
+ . D \ D \  .  . L s { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 7 5 0 0 ,   " h o s 
+t _ i n t " :   1 4 0 8 8 9 3 4 
+4 4 2 1 8 9 7 0 4 9 4 6 4 5 6 3 
+2 1 0 2 9 7 9 1 8 3 1 2 4 4 7 , 
+  " d i s p l a y n a m e " :   
+" " ,   " n a m e s p a c e s " 
+:   [ 5 9 3 5 0 4 9 3 6 0 ] } 
+Packet Count: 368
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . A  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 369
+Recieved Packet Size: 62
+Payload:
+ .  .  .  .  .  .  .  .  . % #  .  .  . E  .  . 
+0  .  .  .  .  .  .  . @  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . B C   1 5 D E 
+S K T O P - 1 U 9 3 A N 9 
+Packet Count: 370
+Recieved Packet Size: 305
+Payload:
+ .  .  .  .  .  .  .  . a  . -  .  .  . E  .  . 
+#  . Q  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  . _  . M S I  .  .  . 
+ .  .  . I  . d  .  .  . `  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  . 3 '  .  .  .  .  . 
+ .  .  . I  . d  .  .  .  .  .  .  . d  .  . 
+ . =  . j  .  .  .  .  .  .  .  .  .  .  .  . 
+ . | j  . Z  .  .  .  .  .  .  . [  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  . d  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  . Y { 1 a b 
+7 4 1 2 d - 6 d b 9 - 4 a 3 2 - 
+a 8 6 b - 2 f c 3 7 b 5 a 8 b 0 
+0 }  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . 9  . 
+Packet Count: 371
+Recieved Packet Size: 176
+Payload:
+ .  .  .  .  .  .  .  .  .  .  .  .  .  . E  .  . 
+ .  .  .  .  . @  .  . 3  .  .  .  .  .  .  . 
+ . D \ D \  .  .  . % { " v e r s i 
+o n " :   [ 2 ,   0 ] ,   " p o 
+r t " :   1 
